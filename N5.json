@@ -1,0 +1,4685 @@
+[
+  {
+    "Vocabulary": "会う",
+    "Furigana": "あう",
+    "Romaji": "au",
+    "Meaning": "to meet",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "青い",
+    "Furigana": "あおい",
+    "Romaji": "aoi",
+    "Meaning": "blue",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "赤い",
+    "Furigana": "あかい",
+    "Romaji": "akai",
+    "Meaning": "red",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "明るい",
+    "Furigana": "あかるい",
+    "Romaji": "akarui",
+    "Meaning": "light, bright",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "秋",
+    "Furigana": "あき",
+    "Romaji": "aki",
+    "Meaning": "autumn, fall",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "開く",
+    "Furigana": "あく",
+    "Romaji": "aku",
+    "Meaning": "open",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "開ける",
+    "Furigana": "あける",
+    "Romaji": "akeru",
+    "Meaning": "to open",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "あげる",
+    "Furigana": "",
+    "Romaji": "ageru",
+    "Meaning": "to give",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "朝",
+    "Furigana": "あさ",
+    "Romaji": "asa",
+    "Meaning": "morning",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "朝ご飯",
+    "Furigana": "あさごはん",
+    "Romaji": "asagohan",
+    "Meaning": "breakfast",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "あさって",
+    "Furigana": "",
+    "Romaji": "asatte",
+    "Meaning": "the day after tomorrow",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "足",
+    "Furigana": "あし",
+    "Romaji": "ashi",
+    "Meaning": "leg, foot",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "明日",
+    "Furigana": "あした",
+    "Romaji": "ashita",
+    "Meaning": "tomorrow",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "あそこ",
+    "Furigana": "",
+    "Romaji": "asoko",
+    "Meaning": "over there",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "遊ぶ",
+    "Furigana": "あそぶ",
+    "Romaji": "asobu",
+    "Meaning": "to play",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "温かい",
+    "Furigana": "あたたかい",
+    "Romaji": "atatakai",
+    "Meaning": "warm",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "頭",
+    "Furigana": "あたま",
+    "Romaji": "atama",
+    "Meaning": "head",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "新しい",
+    "Furigana": "あたらしい",
+    "Romaji": "atarashii",
+    "Meaning": "new",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "あちら",
+    "Furigana": "",
+    "Romaji": "achira",
+    "Meaning": "over there (polite)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "暑い",
+    "Furigana": "あつい",
+    "Romaji": "atsui",
+    "Meaning": "hot (air)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "厚い",
+    "Furigana": "あつい",
+    "Romaji": "atsui",
+    "Meaning": "thick",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "後",
+    "Furigana": "あと",
+    "Romaji": "ato",
+    "Meaning": "later, after",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "貴方",
+    "Furigana": "あなた",
+    "Romaji": "anata",
+    "Meaning": "you",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "兄",
+    "Furigana": "あに",
+    "Romaji": "ani",
+    "Meaning": "older brother",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "姉",
+    "Furigana": "あね",
+    "Romaji": "ane",
+    "Meaning": "older sister",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "あの",
+    "Furigana": "",
+    "Romaji": "ano",
+    "Meaning": "that (over there)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "あの",
+    "Furigana": "",
+    "Romaji": "ano",
+    "Meaning": "well, then",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "アパート",
+    "Furigana": "",
+    "Romaji": "apaato",
+    "Meaning": "apartment",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "浴びる",
+    "Furigana": "あびる",
+    "Romaji": "abiru",
+    "Meaning": "to take a shower",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "危ない",
+    "Furigana": "あぶない",
+    "Romaji": "abunai",
+    "Meaning": "dangerous",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "甘い",
+    "Furigana": "あまい",
+    "Romaji": "amai",
+    "Meaning": "sweet",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "あまり",
+    "Furigana": "",
+    "Romaji": "amari",
+    "Meaning": "not so",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "雨",
+    "Furigana": "あめ",
+    "Romaji": "ame",
+    "Meaning": "rain",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "洗う",
+    "Furigana": "あらう",
+    "Romaji": "arau",
+    "Meaning": "to wash",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "有る",
+    "Furigana": "ある",
+    "Romaji": "aru",
+    "Meaning": "to be, to exist",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ある",
+    "Furigana": "",
+    "Romaji": "aru",
+    "Meaning": "to possess",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "歩く",
+    "Furigana": "あるく",
+    "Romaji": "aruku",
+    "Meaning": "to walk",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "あれ",
+    "Furigana": "",
+    "Romaji": "are",
+    "Meaning": "that one",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "良い",
+    "Furigana": "いい",
+    "Romaji": "ii, yoi",
+    "Meaning": "good",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "いいえ",
+    "Furigana": "",
+    "Romaji": "iie",
+    "Meaning": "no",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "言う",
+    "Furigana": "いう",
+    "Romaji": "iu",
+    "Meaning": "to say, to tell",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "家",
+    "Furigana": "いえ",
+    "Romaji": "ie",
+    "Meaning": "house, home",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "行く",
+    "Furigana": "いく",
+    "Romaji": "iku",
+    "Meaning": "to go",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "いくつ",
+    "Furigana": "",
+    "Romaji": "ikutsu",
+    "Meaning": "how many, how old",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "いくら",
+    "Furigana": "",
+    "Romaji": "ikura",
+    "Meaning": "how much",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "池",
+    "Furigana": "いけ",
+    "Romaji": "ike",
+    "Meaning": "pond",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "医者",
+    "Furigana": "いしゃ",
+    "Romaji": "isha",
+    "Meaning": "doctor",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "椅子",
+    "Furigana": "いす",
+    "Romaji": "isu",
+    "Meaning": "chair",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "忙しい",
+    "Furigana": "いそがしい",
+    "Romaji": "isogashii",
+    "Meaning": "to be busy",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "痛い",
+    "Furigana": "いたい",
+    "Romaji": "itai",
+    "Meaning": "to be painful",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一",
+    "Furigana": "いち",
+    "Romaji": "ichi",
+    "Meaning": "one",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一日",
+    "Furigana": "いちにち",
+    "Romaji": "ichinichi",
+    "Meaning": "one day",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一番",
+    "Furigana": "いちばん",
+    "Romaji": "ichiban",
+    "Meaning": "No. 1, the best, the first",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "いつ",
+    "Furigana": "",
+    "Romaji": "itsu",
+    "Meaning": "when",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "五日",
+    "Furigana": "いつか",
+    "Romaji": "itsuka",
+    "Meaning": "the 5th day of the month, 5 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一緒",
+    "Furigana": "いっしょ",
+    "Romaji": "issho",
+    "Meaning": "together",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "五つ",
+    "Furigana": "いつつ",
+    "Romaji": "itsutsu",
+    "Meaning": "five",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "いつも",
+    "Furigana": "",
+    "Romaji": "itsumo",
+    "Meaning": "always",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "今",
+    "Furigana": "いま",
+    "Romaji": "ima",
+    "Meaning": "now",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "意味",
+    "Furigana": "いみ",
+    "Romaji": "imi",
+    "Meaning": "meaning",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "妹",
+    "Furigana": "いもうと",
+    "Romaji": "imouto",
+    "Meaning": "someone’s younger sister",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "いや",
+    "Furigana": "",
+    "Romaji": "iya",
+    "Meaning": "not likable, unpleasant",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "入口",
+    "Furigana": "いりぐち",
+    "Romaji": "iriguchi",
+    "Meaning": "entrance",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "いる",
+    "Furigana": "",
+    "Romaji": "iru",
+    "Meaning": "need, must have, be required",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "いる",
+    "Furigana": "",
+    "Romaji": "iru",
+    "Meaning": "to exist",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "入れる",
+    "Furigana": "いれる",
+    "Romaji": "ireru",
+    "Meaning": "to insert, to put in",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "色",
+    "Furigana": "いろ",
+    "Romaji": "iro",
+    "Meaning": "color",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "色々",
+    "Furigana": "いろいろ",
+    "Romaji": "iroiro",
+    "Meaning": "various",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "上",
+    "Furigana": "うえ",
+    "Romaji": "ue",
+    "Meaning": "top, on, above",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "後ろ",
+    "Furigana": "うしろ",
+    "Romaji": "ushiro",
+    "Meaning": "back, rear, behind",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "薄い",
+    "Furigana": "うすい",
+    "Romaji": "usui",
+    "Meaning": "thin",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "歌",
+    "Furigana": "うた",
+    "Romaji": "uta",
+    "Meaning": "song",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "歌う",
+    "Furigana": "うたう",
+    "Romaji": "utau",
+    "Meaning": "to sing",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "内",
+    "Furigana": "うち",
+    "Romaji": "uchi",
+    "Meaning": "home",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "生まれる",
+    "Furigana": "うまれる",
+    "Romaji": "umareru",
+    "Meaning": "to be born",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "海",
+    "Furigana": "うみ",
+    "Romaji": "umi",
+    "Meaning": "sea",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "売る",
+    "Furigana": "うる",
+    "Romaji": "uru",
+    "Meaning": "to sell",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "上着",
+    "Furigana": "うわぎ",
+    "Romaji": "uwagi",
+    "Meaning": "coat, jacket",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "絵",
+    "Furigana": "え",
+    "Romaji": "e",
+    "Meaning": "picture",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "映画",
+    "Furigana": "えいが",
+    "Romaji": "eiga",
+    "Meaning": "movie",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "映画館",
+    "Furigana": "えいがかん",
+    "Romaji": "eigakan",
+    "Meaning": "cinema",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "英語",
+    "Furigana": "えいご",
+    "Romaji": "eigo",
+    "Meaning": "English language",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "駅",
+    "Furigana": "えき",
+    "Romaji": "eki",
+    "Meaning": "station",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "エレベータ",
+    "Furigana": "",
+    "Romaji": "erebeeta",
+    "Meaning": "elevator",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "円",
+    "Furigana": "えん",
+    "Romaji": "en",
+    "Meaning": "Yen",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "鉛筆",
+    "Furigana": "えんぴつ",
+    "Romaji": "enpitsu",
+    "Meaning": "pencil",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "御",
+    "Furigana": "お",
+    "Romaji": "o",
+    "Meaning": "honorific prefix",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "美味しい",
+    "Furigana": "おいしい",
+    "Romaji": "oishii",
+    "Meaning": "tasty, delicious",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "大きい",
+    "Furigana": "おおきい",
+    "Romaji": "ookii",
+    "Meaning": "big",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "大ぜい",
+    "Furigana": "おおぜい",
+    "Romaji": "oozei",
+    "Meaning": "many people",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お母さん",
+    "Furigana": "おかあさん",
+    "Romaji": "okaasan",
+    "Meaning": "my own mother",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お菓子",
+    "Furigana": "おかし",
+    "Romaji": "okashi",
+    "Meaning": "confectionary, cake",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お金",
+    "Furigana": "おかね",
+    "Romaji": "okane",
+    "Meaning": "money",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "起きる",
+    "Furigana": "おきる",
+    "Romaji": "okiru",
+    "Meaning": "to get up, to stand up",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "置く",
+    "Furigana": "おく",
+    "Romaji": "oku",
+    "Meaning": "to put, to place",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "奥さん",
+    "Furigana": "おくさん",
+    "Romaji": "okusan",
+    "Meaning": "someone’s wife",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "送る",
+    "Furigana": "おくる",
+    "Romaji": "okuru",
+    "Meaning": "to send",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お酒",
+    "Furigana": "おさけ",
+    "Romaji": "osake",
+    "Meaning": "alcohol, sake",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お皿",
+    "Furigana": "おさら",
+    "Romaji": "osara",
+    "Meaning": "plate",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "伯父さん",
+    "Furigana": "おじさん",
+    "Romaji": "ojisan",
+    "Meaning": "uncle",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お祖父さん",
+    "Furigana": "おじいさん",
+    "Romaji": "ojiisan",
+    "Meaning": "grand father",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "押す",
+    "Furigana": "おす",
+    "Romaji": "osu",
+    "Meaning": "to push",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "遅い",
+    "Furigana": "おそい",
+    "Romaji": "osoi",
+    "Meaning": "late, slow",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お茶",
+    "Furigana": "おちゃ",
+    "Romaji": "ocha",
+    "Meaning": "tea",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お手洗い",
+    "Furigana": "おてあらい",
+    "Romaji": "otearai",
+    "Meaning": "toilet, lavatory",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お父さん",
+    "Furigana": "おとうさん",
+    "Romaji": "otousan",
+    "Meaning": "father",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "弟",
+    "Furigana": "おとうと",
+    "Romaji": "otouto",
+    "Meaning": "someone’s younger brother",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "男",
+    "Furigana": "おとこ",
+    "Romaji": "otoko",
+    "Meaning": "man",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "男の子",
+    "Furigana": "おとこのこ",
+    "Romaji": "otokonoko",
+    "Meaning": "boy",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一昨日",
+    "Furigana": "おととい",
+    "Romaji": "ototoi",
+    "Meaning": "the day before yesterday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一昨年",
+    "Furigana": "おととし",
+    "Romaji": "ototoshi",
+    "Meaning": "the year before last",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "大人",
+    "Furigana": "おとな",
+    "Romaji": "otona",
+    "Meaning": "adult",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お腹",
+    "Furigana": "おなか",
+    "Romaji": "onaka",
+    "Meaning": "stomach",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "同じ",
+    "Furigana": "おなじ",
+    "Romaji": "onaji",
+    "Meaning": "same",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お兄さん",
+    "Furigana": "おにいさん",
+    "Romaji": "oniisan",
+    "Meaning": "someone’s elder brother",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お姉さん",
+    "Furigana": "おねえさん",
+    "Romaji": "oneesan",
+    "Meaning": "someone’s elder sister",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "伯母さん",
+    "Furigana": "おばさん",
+    "Romaji": "obasan",
+    "Meaning": "aunt",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お祖母さん",
+    "Furigana": "おばあさん",
+    "Romaji": "obaasan",
+    "Meaning": "grandmother",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お弁当",
+    "Furigana": "おべんとう",
+    "Romaji": "obentou",
+    "Meaning": "lunchbox",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "覚える",
+    "Furigana": "おぼえる",
+    "Romaji": "oboeru",
+    "Meaning": "to memorize, to remember",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "重い",
+    "Furigana": "おもい",
+    "Romaji": "omoi",
+    "Meaning": "heavy",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "面白い",
+    "Furigana": "おもしろい",
+    "Romaji": "omoshiroi",
+    "Meaning": "interesting, funny",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "泳ぐ",
+    "Furigana": "およぐ",
+    "Romaji": "oyogu",
+    "Meaning": "to swim",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "降りる",
+    "Furigana": "おりる",
+    "Romaji": "oriru",
+    "Meaning": "to get off",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "終わる",
+    "Furigana": "おわる",
+    "Romaji": "owaru",
+    "Meaning": "to end",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "音楽",
+    "Furigana": "おんがく",
+    "Romaji": "ongaku",
+    "Meaning": "music",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "女",
+    "Furigana": "おんな",
+    "Romaji": "onna",
+    "Meaning": "woman",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "女の子",
+    "Furigana": "おんなのこ",
+    "Romaji": "onnanoko",
+    "Meaning": "girl",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~回",
+    "Furigana": "~かい",
+    "Romaji": "~kai",
+    "Meaning": "~times",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~階",
+    "Furigana": "~かい",
+    "Romaji": "~kai",
+    "Meaning": "~floor",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "外国",
+    "Furigana": "がいこく",
+    "Romaji": "gaikoku",
+    "Meaning": "foreign country",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "外国人",
+    "Furigana": "がいこくじん",
+    "Romaji": "gaikokujin",
+    "Meaning": "foreigner",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "会社",
+    "Furigana": "かいしゃ",
+    "Romaji": "kaisha",
+    "Meaning": "company, enterprise",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "階段",
+    "Furigana": "かいだん",
+    "Romaji": "kaidan",
+    "Meaning": "stairs",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "買物",
+    "Furigana": "かいもの",
+    "Romaji": "kaimono",
+    "Meaning": "shopping",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "買う",
+    "Furigana": "かう",
+    "Romaji": "kau",
+    "Meaning": "to buy",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "返す",
+    "Furigana": "かえす",
+    "Romaji": "kaesu",
+    "Meaning": "to return an object",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "帰る",
+    "Furigana": "かえる",
+    "Romaji": "kaeru",
+    "Meaning": "to return home",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "顔",
+    "Furigana": "かお",
+    "Romaji": "kao",
+    "Meaning": "face",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "かかる",
+    "Furigana": "",
+    "Romaji": "kakaru",
+    "Meaning": "to take time, money",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "鍵",
+    "Furigana": "かぎ",
+    "Romaji": "kagi",
+    "Meaning": "key",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "書く",
+    "Furigana": "かく",
+    "Romaji": "kaku",
+    "Meaning": "to write",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "学生",
+    "Furigana": "がくせい",
+    "Romaji": "gakusei",
+    "Meaning": "student",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~か月",
+    "Furigana": "~かげつ",
+    "Romaji": "~kagetsu",
+    "Meaning": "~ number of months",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "かける",
+    "Furigana": "",
+    "Romaji": "kakeru",
+    "Meaning": "to wear",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "かける",
+    "Furigana": "",
+    "Romaji": "kakeru",
+    "Meaning": "to make a phone call",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "傘",
+    "Furigana": "かさ",
+    "Romaji": "kasa",
+    "Meaning": "umbrella",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "貸す",
+    "Furigana": "かす",
+    "Romaji": "kasu",
+    "Meaning": "to lend",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "風",
+    "Furigana": "かぜ",
+    "Romaji": "kaze",
+    "Meaning": "wind",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "風邪",
+    "Furigana": "かぜ",
+    "Romaji": "kaze",
+    "Meaning": "a cold",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "家族",
+    "Furigana": "かぞく",
+    "Romaji": "kazoku",
+    "Meaning": "family",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "方",
+    "Furigana": "かた",
+    "Romaji": "kata",
+    "Meaning": "person (polite)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "片仮名",
+    "Furigana": "かたかな",
+    "Romaji": "katakana",
+    "Meaning": "Katakana",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一月",
+    "Furigana": "いちがつ",
+    "Romaji": "ichigatsu",
+    "Meaning": "January",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "二月",
+    "Furigana": "にがつ",
+    "Romaji": "nigatsu",
+    "Meaning": "February",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "三月",
+    "Furigana": "さんがつ",
+    "Romaji": "sangatsu",
+    "Meaning": "March",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "四月",
+    "Furigana": "しがつ",
+    "Romaji": "shigatsu",
+    "Meaning": "April",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "五月",
+    "Furigana": "ごがつ",
+    "Romaji": "gogatsu",
+    "Meaning": "May",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "六月",
+    "Furigana": "ろくがつ",
+    "Romaji": "rokugatsu",
+    "Meaning": "June",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "七月",
+    "Furigana": "しちがつ",
+    "Romaji": "shichigatsu",
+    "Meaning": "July",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "八月",
+    "Furigana": "はちがつ",
+    "Romaji": "hachigatsu",
+    "Meaning": "August",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "九月",
+    "Furigana": "くがつ",
+    "Romaji": "kugatsu",
+    "Meaning": "September",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "十月",
+    "Furigana": "じゅうがつ",
+    "Romaji": "juugatsu",
+    "Meaning": "October",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "十一月",
+    "Furigana": "じゅういちがつ",
+    "Romaji": "juuichigatsu",
+    "Meaning": "November",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "十二月",
+    "Furigana": "じゅうにがつ",
+    "Romaji": "juunigatsu",
+    "Meaning": "December",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "学校",
+    "Furigana": "がっこう",
+    "Romaji": "gakkou",
+    "Meaning": "school",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "角",
+    "Furigana": "かど",
+    "Romaji": "kado",
+    "Meaning": "corner",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "家内",
+    "Furigana": "かない",
+    "Romaji": "kanai",
+    "Meaning": "my wife",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "鞄",
+    "Furigana": "かばん",
+    "Romaji": "kaban",
+    "Meaning": "bag",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "花瓶",
+    "Furigana": "かびん",
+    "Romaji": "kabin",
+    "Meaning": "vase",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "冠る",
+    "Furigana": "かぶる",
+    "Romaji": "kaburu",
+    "Meaning": "to put on a hat",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "紙",
+    "Furigana": "かみ",
+    "Romaji": "kami",
+    "Meaning": "paper",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "カメラ",
+    "Furigana": "かめら",
+    "Romaji": "kamera",
+    "Meaning": "camera",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "火曜日",
+    "Furigana": "かようび",
+    "Romaji": "kayoubi",
+    "Meaning": "Tuesday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "辛い",
+    "Furigana": "からい",
+    "Romaji": "karai",
+    "Meaning": "hot, spicy",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "体",
+    "Furigana": "からだ",
+    "Romaji": "karada",
+    "Meaning": "body",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "借りる",
+    "Furigana": "かりる",
+    "Romaji": "kariru",
+    "Meaning": "to borrow",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "軽い",
+    "Furigana": "かるい",
+    "Romaji": "karui",
+    "Meaning": "light (not heavy)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "カレンダー",
+    "Furigana": "",
+    "Romaji": "karendaa",
+    "Meaning": "calendar",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "川",
+    "Furigana": "かわ",
+    "Romaji": "kawa",
+    "Meaning": "river",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~側",
+    "Furigana": "~がわ",
+    "Romaji": "~gawa",
+    "Meaning": "~side",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "可愛い",
+    "Furigana": "かわいい",
+    "Romaji": "kawaii",
+    "Meaning": "cute, pretty",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "漢字",
+    "Furigana": "かんじ",
+    "Romaji": "kanji",
+    "Meaning": "Kanji character",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "木",
+    "Furigana": "き",
+    "Romaji": "ki",
+    "Meaning": "tree",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "黄色い",
+    "Furigana": "きいろい",
+    "Romaji": "kiiroi",
+    "Meaning": "yellow",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "消える",
+    "Furigana": "きえる",
+    "Romaji": "kieru",
+    "Meaning": "to go out, to vanish",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "聞く",
+    "Furigana": "きく",
+    "Romaji": "kiku",
+    "Meaning": "to hear, to listen, to ask",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "北",
+    "Furigana": "きた",
+    "Romaji": "kita",
+    "Meaning": "north",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ギター",
+    "Furigana": "",
+    "Romaji": "gitaa",
+    "Meaning": "guitar",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "汚い",
+    "Furigana": "きたない",
+    "Romaji": "kitanai",
+    "Meaning": "dirty",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "喫茶店",
+    "Furigana": "きっさてん",
+    "Romaji": "kissaten",
+    "Meaning": "coffee shop",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "切手",
+    "Furigana": "きって",
+    "Romaji": "kitte",
+    "Meaning": "stamp",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "切符",
+    "Furigana": "きっぷ",
+    "Romaji": "kippu",
+    "Meaning": "ticket",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "昨日",
+    "Furigana": "きのう",
+    "Romaji": "kinou",
+    "Meaning": "yesterday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "九",
+    "Furigana": "きゅう",
+    "Romaji": "kyuu",
+    "Meaning": "nine",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "牛肉",
+    "Furigana": "ぎゅうにく",
+    "Romaji": "gyuuniku",
+    "Meaning": "beef",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "牛乳",
+    "Furigana": "ぎゅうにゅう",
+    "Romaji": "gyuunyuu",
+    "Meaning": "milk",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "今日",
+    "Furigana": "きょう",
+    "Romaji": "kyou",
+    "Meaning": "today",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "教室",
+    "Furigana": "きょうしつ",
+    "Romaji": "kyoushitsu",
+    "Meaning": "class room",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "兄弟",
+    "Furigana": "きょうだい",
+    "Romaji": "kyoudai",
+    "Meaning": "siblings",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "去年",
+    "Furigana": "きょねん",
+    "Romaji": "kyonen",
+    "Meaning": "last year",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "嫌い",
+    "Furigana": "きらい",
+    "Romaji": "kirai",
+    "Meaning": "unpleasant, not likable",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "切る",
+    "Furigana": "きる",
+    "Romaji": "kiru",
+    "Meaning": "to cut",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "着る",
+    "Furigana": "きる",
+    "Romaji": "kiru",
+    "Meaning": "to wear, to put on",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "来る",
+    "Furigana": "くる",
+    "Romaji": "kuru",
+    "Meaning": "to come",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "きれい",
+    "Furigana": "",
+    "Romaji": "kirei",
+    "Meaning": "beautiful, clean",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "キロ",
+    "Furigana": "",
+    "Romaji": "kiro",
+    "Meaning": "kg/km",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "銀行",
+    "Furigana": "ぎんこう",
+    "Romaji": "ginkou",
+    "Meaning": "bank",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "金曜日",
+    "Furigana": "きんようび",
+    "Romaji": "kinyoubi",
+    "Meaning": "Friday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "九",
+    "Furigana": "く",
+    "Romaji": "ku",
+    "Meaning": "nine",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "薬",
+    "Furigana": "くすり",
+    "Romaji": "kusuri",
+    "Meaning": "medicine",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "下さい",
+    "Furigana": "ください",
+    "Romaji": "kudasai",
+    "Meaning": "give me…",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "果物",
+    "Furigana": "くだもの",
+    "Romaji": "kudamono",
+    "Meaning": "fruit",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "口",
+    "Furigana": "くち",
+    "Romaji": "kuchi",
+    "Meaning": "mouth",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "靴",
+    "Furigana": "くつ",
+    "Romaji": "kutsu",
+    "Meaning": "shoe",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "靴下",
+    "Furigana": "くつした",
+    "Romaji": "kutsushita",
+    "Meaning": "socks",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "国",
+    "Furigana": "くに",
+    "Romaji": "kuni",
+    "Meaning": "country",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "曇り",
+    "Furigana": "くもり",
+    "Romaji": "kumori",
+    "Meaning": "cloudy weather",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "暗い",
+    "Furigana": "くらい",
+    "Romaji": "kurai",
+    "Meaning": "dark",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ぐらい",
+    "Furigana": "",
+    "Romaji": "gurai",
+    "Meaning": "about",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "クラス",
+    "Furigana": "",
+    "Romaji": "kurasu",
+    "Meaning": "class",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "グラム",
+    "Furigana": "",
+    "Romaji": "guramu",
+    "Meaning": "gram",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "車",
+    "Furigana": "くるま",
+    "Romaji": "kuruma",
+    "Meaning": "car",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "黒い",
+    "Furigana": "くろい",
+    "Romaji": "kuroi",
+    "Meaning": "black",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "今朝",
+    "Furigana": "けさ",
+    "Romaji": "kesa",
+    "Meaning": "this morning",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "消す",
+    "Furigana": "けす",
+    "Romaji": "kesu",
+    "Meaning": "to turn off, switch off",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "けっこう",
+    "Furigana": "",
+    "Romaji": "kekkou",
+    "Meaning": "fine, all right",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "結婚",
+    "Furigana": "けっこん",
+    "Romaji": "kekkon",
+    "Meaning": "marriage",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "月曜日",
+    "Furigana": "げつようび",
+    "Romaji": "getsuyoubi",
+    "Meaning": "Monday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "玄関",
+    "Furigana": "げんかん",
+    "Romaji": "genkan",
+    "Meaning": "entrance of a house",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "元気",
+    "Furigana": "げんき",
+    "Romaji": "genki",
+    "Meaning": "vigor, health, vitality",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~個",
+    "Furigana": "~こ",
+    "Romaji": "~ko",
+    "Meaning": "counter for small objects",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "五",
+    "Furigana": "ご",
+    "Romaji": "go",
+    "Meaning": "five",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~語",
+    "Furigana": "~ご",
+    "Romaji": "~go",
+    "Meaning": "~ language",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "公園",
+    "Furigana": "こうえん",
+    "Romaji": "kouen",
+    "Meaning": "park, large garden",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "交番",
+    "Furigana": "こうばん",
+    "Romaji": "kouban",
+    "Meaning": "police box",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "声",
+    "Furigana": "こえ",
+    "Romaji": "koe",
+    "Meaning": "voice",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "コート",
+    "Furigana": "",
+    "Romaji": "kooto",
+    "Meaning": "coat",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ここ",
+    "Furigana": "",
+    "Romaji": "koko",
+    "Meaning": "here",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "午後",
+    "Furigana": "ごご",
+    "Romaji": "gogo",
+    "Meaning": "afternoon",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "九日",
+    "Furigana": "ここのか",
+    "Romaji": "kokonoka",
+    "Meaning": "9th day of a month, 9 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "九つ",
+    "Furigana": "ここのつ",
+    "Romaji": "kokonotsu",
+    "Meaning": "nine",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ご主人",
+    "Furigana": "ごしゅじん",
+    "Romaji": "goshujin",
+    "Meaning": "someone else’s husband",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "午前",
+    "Furigana": "ごぜん",
+    "Romaji": "gozen",
+    "Meaning": "morning, a.m.",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "答える",
+    "Furigana": "こたえる",
+    "Romaji": "kotaeru",
+    "Meaning": "to answer",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "こちら",
+    "Furigana": "",
+    "Romaji": "kochira",
+    "Meaning": "this side, this place",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "コップ",
+    "Furigana": "",
+    "Romaji": "koppu",
+    "Meaning": "cup, glass",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "今年",
+    "Furigana": "ことし",
+    "Romaji": "kotoshi",
+    "Meaning": "this year",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "言葉",
+    "Furigana": "ことば",
+    "Romaji": "kotoba",
+    "Meaning": "phrase, language",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "子供",
+    "Furigana": "こども",
+    "Romaji": "kodomo",
+    "Meaning": "child",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "この",
+    "Furigana": "",
+    "Romaji": "kono",
+    "Meaning": "this…",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "御飯",
+    "Furigana": "ごはん",
+    "Romaji": "gohan",
+    "Meaning": "meal, cooked rice",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "困る",
+    "Furigana": "こまる",
+    "Romaji": "komaru",
+    "Meaning": "to be in trouble",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "これ",
+    "Furigana": "",
+    "Romaji": "kore",
+    "Meaning": "this",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ごろ",
+    "Furigana": "",
+    "Romaji": "goro",
+    "Meaning": "around…",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "今月",
+    "Furigana": "こんげつ",
+    "Romaji": "kongetsu",
+    "Meaning": "this month",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "今週",
+    "Furigana": "こんしゅう",
+    "Romaji": "konshuu",
+    "Meaning": "this week",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "こんな",
+    "Furigana": "",
+    "Romaji": "konna",
+    "Meaning": "this sort of, this kind of",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "今晩",
+    "Furigana": "こんばん",
+    "Romaji": "konban",
+    "Meaning": "this evening",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "さあ",
+    "Furigana": "",
+    "Romaji": "saa",
+    "Meaning": "well…",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~歳",
+    "Furigana": "~さい",
+    "Romaji": "~sai",
+    "Meaning": "years old",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "魚",
+    "Furigana": "さかな",
+    "Romaji": "sakana",
+    "Meaning": "fish",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "先",
+    "Furigana": "さき",
+    "Romaji": "saki",
+    "Meaning": "earlier, former",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "咲く",
+    "Furigana": "さく",
+    "Romaji": "saku",
+    "Meaning": "to blossom",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "作文",
+    "Furigana": "さくぶん",
+    "Romaji": "sakubun",
+    "Meaning": "composition",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "冊",
+    "Furigana": "~さつ",
+    "Romaji": "~satsu",
+    "Meaning": "counter for books",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "雑誌",
+    "Furigana": "ざっし",
+    "Romaji": "zasshi",
+    "Meaning": "magazine",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "砂糖",
+    "Furigana": "さとう",
+    "Romaji": "satou",
+    "Meaning": "sugar",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "寒い",
+    "Furigana": "さむい",
+    "Romaji": "samui",
+    "Meaning": "cold",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "再来年",
+    "Furigana": "さらいねん",
+    "Romaji": "sarainen",
+    "Meaning": "the year after next year",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "三",
+    "Furigana": "さん",
+    "Romaji": "san",
+    "Meaning": "three",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~さん",
+    "Furigana": "",
+    "Romaji": "~san",
+    "Meaning": "Mr., Mrs.",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "散歩",
+    "Furigana": "さんぽ",
+    "Romaji": "sanpo",
+    "Meaning": "to take a walk",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "四",
+    "Furigana": "よん",
+    "Romaji": "yon",
+    "Meaning": "four",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~時",
+    "Furigana": "~じ",
+    "Romaji": "~ji",
+    "Meaning": "o’clock",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "塩",
+    "Furigana": "しお",
+    "Romaji": "shio",
+    "Meaning": "salt",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "しかし",
+    "Furigana": "",
+    "Romaji": "shikashi",
+    "Meaning": "however, but",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "時間",
+    "Furigana": "じかん",
+    "Romaji": "jikan",
+    "Meaning": "time",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~時間",
+    "Furigana": "~じかん",
+    "Romaji": "~jikan",
+    "Meaning": "~hours (classificator)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "仕事",
+    "Furigana": "しごと",
+    "Romaji": "shigoto",
+    "Meaning": "work",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "辞書",
+    "Furigana": "じしょ",
+    "Romaji": "jisho",
+    "Meaning": "dictionary",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "静か",
+    "Furigana": "しずか",
+    "Romaji": "shizuka",
+    "Meaning": "quiet",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "下",
+    "Furigana": "した",
+    "Romaji": "shita",
+    "Meaning": "under, below",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "質問",
+    "Furigana": "しつもん",
+    "Romaji": "shitsumon",
+    "Meaning": "question",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "自転車",
+    "Furigana": "じてんしゃ",
+    "Romaji": "jitensha",
+    "Meaning": "bicycle",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "自動車",
+    "Furigana": "じどうしゃ",
+    "Romaji": "jidousha",
+    "Meaning": "car, vehicle",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "死ぬ",
+    "Furigana": "しぬ",
+    "Romaji": "shinu",
+    "Meaning": "to die, to pas away",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "字引",
+    "Furigana": "じびき",
+    "Romaji": "jibiki",
+    "Meaning": "dictionary",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "自分",
+    "Furigana": "じぶん",
+    "Romaji": "jibun",
+    "Meaning": "oneself",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "閉まる",
+    "Furigana": "しまる",
+    "Romaji": "shimaru",
+    "Meaning": "to close",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "閉める",
+    "Furigana": "しめる",
+    "Romaji": "shimeru",
+    "Meaning": "to close",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "締める",
+    "Furigana": "しめる",
+    "Romaji": "shimeru",
+    "Meaning": "to fasten a seatbelt",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "じゃ",
+    "Furigana": "",
+    "Romaji": "ja",
+    "Meaning": "well, then",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "写真",
+    "Furigana": "しゃしん",
+    "Romaji": "shashin",
+    "Meaning": "photo",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "シャツ",
+    "Furigana": "",
+    "Romaji": "shatsu",
+    "Meaning": "shirt",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "十",
+    "Furigana": "じゅう",
+    "Romaji": "juu",
+    "Meaning": "ten",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~週間",
+    "Furigana": "~しゅうかん",
+    "Romaji": "~shuukan",
+    "Meaning": "… weeks",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "授業",
+    "Furigana": "じゅぎょう",
+    "Romaji": "jugyou",
+    "Meaning": "lesson, class",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "宿題",
+    "Furigana": "しゅくだい",
+    "Romaji": "shukudai",
+    "Meaning": "homework",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "上手",
+    "Furigana": "じょうず",
+    "Romaji": "jouzu",
+    "Meaning": "to be good at something",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "丈夫",
+    "Furigana": "じょうぶ",
+    "Romaji": "joubu",
+    "Meaning": "to be strong, durable",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "醤油",
+    "Furigana": "しょうゆ",
+    "Romaji": "shouyu",
+    "Meaning": "soy sauce",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "食堂",
+    "Furigana": "しょくどう",
+    "Romaji": "shokudou",
+    "Meaning": "dining room, canteen",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "知る",
+    "Furigana": "しる",
+    "Romaji": "shiru",
+    "Meaning": "to know",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "白い",
+    "Furigana": "しろい",
+    "Romaji": "shiroi",
+    "Meaning": "white",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~人",
+    "Furigana": "~じん",
+    "Romaji": "~jin",
+    "Meaning": "~an, ~ese (nationality)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "新聞",
+    "Furigana": "しんぶん",
+    "Romaji": "shinbun",
+    "Meaning": "newspaper",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "水曜日",
+    "Furigana": "すいようび",
+    "Romaji": "suiyoubi",
+    "Meaning": "Wednesday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "吸う",
+    "Furigana": "すう",
+    "Romaji": "suu",
+    "Meaning": "to breathe, to smoke",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "スカート",
+    "Furigana": "",
+    "Romaji": "sukaato",
+    "Meaning": "skirt",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "好き",
+    "Furigana": "すき",
+    "Romaji": "suki",
+    "Meaning": "to like",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~過ぎ",
+    "Furigana": "~すぎ",
+    "Romaji": "~sugi",
+    "Meaning": "past, over",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "すぐに",
+    "Furigana": "",
+    "Romaji": "sugu ni",
+    "Meaning": "at once",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "少し",
+    "Furigana": "すこし",
+    "Romaji": "sukoshi",
+    "Meaning": "a little",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "涼しい",
+    "Furigana": "すずしい",
+    "Romaji": "suzushii",
+    "Meaning": "cool",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~ずつ",
+    "Furigana": "",
+    "Romaji": "~zutsu",
+    "Meaning": "each",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ストーブ",
+    "Furigana": "",
+    "Romaji": "sutoobu",
+    "Meaning": "stove, heater",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "スプーン",
+    "Furigana": "",
+    "Romaji": "supuun",
+    "Meaning": "spoon",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "スポーツ",
+    "Furigana": "",
+    "Romaji": "supootsu",
+    "Meaning": "sports",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ズボン",
+    "Furigana": "",
+    "Romaji": "zubon",
+    "Meaning": "trousers",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "住む",
+    "Furigana": "すむ",
+    "Romaji": "sumu",
+    "Meaning": "to live, to reside somewhere",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "スリッパ",
+    "Furigana": "",
+    "Romaji": "surippa",
+    "Meaning": "slipper",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "する",
+    "Furigana": "",
+    "Romaji": "suru",
+    "Meaning": "to do",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "座る",
+    "Furigana": "すわる",
+    "Romaji": "suwaru",
+    "Meaning": "to sit",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "背",
+    "Furigana": "せい",
+    "Romaji": "sei",
+    "Meaning": "height",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "生徒",
+    "Furigana": "せいと",
+    "Romaji": "seito",
+    "Meaning": "student",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "セーター",
+    "Furigana": "",
+    "Romaji": "seetaa",
+    "Meaning": "sweater",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "石鹸",
+    "Furigana": "せっけん",
+    "Romaji": "sekken",
+    "Meaning": "soap",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "背広",
+    "Furigana": "せびろ",
+    "Romaji": "sebiro",
+    "Meaning": "jacket, suit",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "狭い",
+    "Furigana": "せまい",
+    "Romaji": "semai",
+    "Meaning": "narrow",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ゼロ",
+    "Furigana": "",
+    "Romaji": "zero",
+    "Meaning": "zero",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "千",
+    "Furigana": "せん",
+    "Romaji": "sen",
+    "Meaning": "1,000, thousand",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "先月",
+    "Furigana": "せんげつ",
+    "Romaji": "sengetsu",
+    "Meaning": "last month",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "先週",
+    "Furigana": "せんしゅう",
+    "Romaji": "senshuu",
+    "Meaning": "last week",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "先生",
+    "Furigana": "せんせい",
+    "Romaji": "sensei",
+    "Meaning": "teacher",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "洗濯",
+    "Furigana": "せんたく",
+    "Romaji": "sentaku",
+    "Meaning": "to wash (laundry)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "全部",
+    "Furigana": "ぜんぶ",
+    "Romaji": "zenbu",
+    "Meaning": "all",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "そう",
+    "Furigana": "",
+    "Romaji": "sou",
+    "Meaning": "so",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "掃除",
+    "Furigana": "そうじ",
+    "Romaji": "souji",
+    "Meaning": "to clean",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "そうして",
+    "Furigana": "",
+    "Romaji": "soushite",
+    "Meaning": "and then",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "そこ",
+    "Furigana": "",
+    "Romaji": "soko",
+    "Meaning": "there",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "そちら",
+    "Furigana": "",
+    "Romaji": "sochira",
+    "Meaning": "there (polite)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "外",
+    "Furigana": "そと",
+    "Romaji": "soto",
+    "Meaning": "outside",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "その",
+    "Furigana": "",
+    "Romaji": "sono",
+    "Meaning": "that…",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "そば",
+    "Furigana": "",
+    "Romaji": "soba",
+    "Meaning": "next to",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "空",
+    "Furigana": "そら",
+    "Romaji": "sora",
+    "Meaning": "sky",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "それ",
+    "Furigana": "",
+    "Romaji": "sore",
+    "Meaning": "that",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "それから",
+    "Furigana": "",
+    "Romaji": "sorekara",
+    "Meaning": "after that",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "それでは",
+    "Furigana": "",
+    "Romaji": "soredewa",
+    "Meaning": "then, well",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~台",
+    "Furigana": "~だい",
+    "Romaji": "~dai",
+    "Meaning": "counter for machines",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "大学",
+    "Furigana": "だいがく",
+    "Romaji": "daigaku",
+    "Meaning": "university",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "大使館",
+    "Furigana": "たいしかん",
+    "Romaji": "taishikan",
+    "Meaning": "embassy",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "大丈夫",
+    "Furigana": "だいじょうぶ",
+    "Romaji": "daijoubu",
+    "Meaning": "OK",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "大好き",
+    "Furigana": "だいすき",
+    "Romaji": "daisuki",
+    "Meaning": "to be very fond of",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "大切",
+    "Furigana": "たいせつ",
+    "Romaji": "taisetsu",
+    "Meaning": "very important",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "たいてい",
+    "Furigana": "",
+    "Romaji": "taitei",
+    "Meaning": "mostly, usually",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "台所",
+    "Furigana": "だいどころ",
+    "Romaji": "daidokoro",
+    "Meaning": "kitchen",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "大変",
+    "Furigana": "たいへん",
+    "Romaji": "taihen",
+    "Meaning": "very, serious",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "高い",
+    "Furigana": "たかい",
+    "Romaji": "takai",
+    "Meaning": "high, expensive",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "沢山",
+    "Furigana": "たくさん",
+    "Romaji": "takusan",
+    "Meaning": "many, much",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "タクシー",
+    "Furigana": "",
+    "Romaji": "takushii",
+    "Meaning": "taxi",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "出す",
+    "Furigana": "だす",
+    "Romaji": "dasu",
+    "Meaning": "to take out, hand in",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~達",
+    "Furigana": "~たち",
+    "Romaji": "~tachi",
+    "Meaning": "more than one, and others",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "立つ",
+    "Furigana": "たつ",
+    "Romaji": "tatsu",
+    "Meaning": "to stand",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "建物",
+    "Furigana": "たてもの",
+    "Romaji": "tatemono",
+    "Meaning": "building",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "楽しい",
+    "Furigana": "たのしい",
+    "Romaji": "tanoshii",
+    "Meaning": "pleasant, enjoyable",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "頼む",
+    "Furigana": "たのむ",
+    "Romaji": "tanomu",
+    "Meaning": "to ask, to request",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "たばこ",
+    "Furigana": "",
+    "Romaji": "tabako",
+    "Meaning": "cigarette",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "多分",
+    "Furigana": "たぶん",
+    "Romaji": "tabun",
+    "Meaning": "perhaps, probably",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "食べ物",
+    "Furigana": "たべもの",
+    "Romaji": "tabemono",
+    "Meaning": "food",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "食べる",
+    "Furigana": "たべる",
+    "Romaji": "taberu",
+    "Meaning": "to eat",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "卵",
+    "Furigana": "たまご",
+    "Romaji": "tamago",
+    "Meaning": "egg",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "誰",
+    "Furigana": "だれ",
+    "Romaji": "dare",
+    "Meaning": "who?",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "誕生日",
+    "Furigana": "たんじょうび",
+    "Romaji": "tanjoubi",
+    "Meaning": "birthday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "だんだん",
+    "Furigana": "",
+    "Romaji": "dandan",
+    "Meaning": "gradually",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "小さい",
+    "Furigana": "ちいさい",
+    "Romaji": "chiisai",
+    "Meaning": "small",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "近い",
+    "Furigana": "ちかい",
+    "Romaji": "chikai",
+    "Meaning": "near, close",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "違う",
+    "Furigana": "ちがう",
+    "Romaji": "chigau",
+    "Meaning": "different",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "地下鉄",
+    "Furigana": "ちかてつ",
+    "Romaji": "chikatetsu",
+    "Meaning": "subway",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "地図",
+    "Furigana": "ちず",
+    "Romaji": "chizu",
+    "Meaning": "map",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "父",
+    "Furigana": "ちち",
+    "Romaji": "chichi",
+    "Meaning": "my father",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "茶色",
+    "Furigana": "ちゃいろ",
+    "Romaji": "chairo",
+    "Meaning": "brown",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "茶碗",
+    "Furigana": "ちゃわん",
+    "Romaji": "chawan",
+    "Meaning": "rice bowl",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~中",
+    "Furigana": "~ちゅう",
+    "Romaji": "~chuu",
+    "Meaning": "in the middle of",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ちょうど",
+    "Furigana": "",
+    "Romaji": "choudo",
+    "Meaning": "just",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ちょっと",
+    "Furigana": "",
+    "Romaji": "chotto",
+    "Meaning": "a little",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一日",
+    "Furigana": "ついたち",
+    "Romaji": "tsuitachi",
+    "Meaning": "the 1st day of a month",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "使う",
+    "Furigana": "つかう",
+    "Romaji": "tsukau",
+    "Meaning": "to use",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "疲れる",
+    "Furigana": "つかれる",
+    "Romaji": "tsukareru",
+    "Meaning": "to get tired",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "次",
+    "Furigana": "つぎ",
+    "Romaji": "tsugi",
+    "Meaning": "next",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "着く",
+    "Furigana": "つく",
+    "Romaji": "tsuku",
+    "Meaning": "to arrive",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "机",
+    "Furigana": "つくえ",
+    "Romaji": "tsukue",
+    "Meaning": "table",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "作る",
+    "Furigana": "つくる",
+    "Romaji": "tsukuru",
+    "Meaning": "to make, to produce",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "点ける",
+    "Furigana": "つける",
+    "Romaji": "tsukeru",
+    "Meaning": "to turn on",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "勤める",
+    "Furigana": "つとめる",
+    "Romaji": "tsutomeru",
+    "Meaning": "to work for someone",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "詰らない",
+    "Furigana": "つまらない",
+    "Romaji": "tsumaranai",
+    "Meaning": "uninteresting",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "冷たい",
+    "Furigana": "つめたい",
+    "Romaji": "tsumetai",
+    "Meaning": "cold",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "強い",
+    "Furigana": "つよい",
+    "Romaji": "tsuyoi",
+    "Meaning": "strong",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "手",
+    "Furigana": "て",
+    "Romaji": "te",
+    "Meaning": "hand",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "テープ",
+    "Furigana": "",
+    "Romaji": "teepu",
+    "Meaning": "tape",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "テープレコーダー",
+    "Furigana": "",
+    "Romaji": "teepu rekoodaa",
+    "Meaning": "tape recorder",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "テーブル",
+    "Furigana": "",
+    "Romaji": "teeburu",
+    "Meaning": "table",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "出かける",
+    "Furigana": "でかける",
+    "Romaji": "dekakeru",
+    "Meaning": "to go out",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "手紙",
+    "Furigana": "てがみ",
+    "Romaji": "tegami",
+    "Meaning": "letter",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "出来る",
+    "Furigana": "できる",
+    "Romaji": "dekiru",
+    "Meaning": "can",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "出口",
+    "Furigana": "でぐち",
+    "Romaji": "deguchi",
+    "Meaning": "exit",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "テスト",
+    "Furigana": "",
+    "Romaji": "tesuto",
+    "Meaning": "test",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "では",
+    "Furigana": "",
+    "Romaji": "dewa",
+    "Meaning": "then, well",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "デパート",
+    "Furigana": "",
+    "Romaji": "depaato",
+    "Meaning": "department store",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "でも",
+    "Furigana": "",
+    "Romaji": "demo",
+    "Meaning": "but",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "出ます",
+    "Furigana": "でます",
+    "Romaji": "demasu",
+    "Meaning": "to leave",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "テレビ",
+    "Furigana": "",
+    "Romaji": "terebi",
+    "Meaning": "TV",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "天気",
+    "Furigana": "てんき",
+    "Romaji": "tenki",
+    "Meaning": "weather",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "電気",
+    "Furigana": "でんき",
+    "Romaji": "denki",
+    "Meaning": "electricity",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "電車",
+    "Furigana": "でんしゃ",
+    "Romaji": "densha",
+    "Meaning": "train",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "電話",
+    "Furigana": "でんわ",
+    "Romaji": "denwa",
+    "Meaning": "phone",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "戸",
+    "Furigana": "と",
+    "Romaji": "to",
+    "Meaning": "door",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~度",
+    "Furigana": "~ど",
+    "Romaji": "~do",
+    "Meaning": "~degree",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ドア",
+    "Furigana": "",
+    "Romaji": "doa",
+    "Meaning": "door",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "トイレ",
+    "Furigana": "",
+    "Romaji": "toire",
+    "Meaning": "toilet, lavatory",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どう",
+    "Furigana": "",
+    "Romaji": "dou",
+    "Meaning": "how?",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どうして",
+    "Furigana": "",
+    "Romaji": "doushite",
+    "Meaning": "why?",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どうぞ",
+    "Furigana": "",
+    "Romaji": "douzo",
+    "Meaning": "please, here you are",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "動物",
+    "Furigana": "どうぶつ",
+    "Romaji": "doubutsu",
+    "Meaning": "animal",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どうも",
+    "Furigana": "",
+    "Romaji": "doumo",
+    "Meaning": "thanks (polite)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "十",
+    "Furigana": "とお",
+    "Romaji": "too",
+    "Meaning": "ten",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "遠い",
+    "Furigana": "とおい",
+    "Romaji": "tooi",
+    "Meaning": "far",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "十日",
+    "Furigana": "とおか",
+    "Romaji": "tooka",
+    "Meaning": "the 10th day of a month, 10 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "時々",
+    "Furigana": "ときどき",
+    "Romaji": "tokidoki",
+    "Meaning": "sometimes",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "時計",
+    "Furigana": "とけい",
+    "Romaji": "tokei",
+    "Meaning": "watch, clock",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どこ",
+    "Furigana": "",
+    "Romaji": "doko",
+    "Meaning": "where?",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "所",
+    "Furigana": "ところ",
+    "Romaji": "tokoro",
+    "Meaning": "place",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "図書館",
+    "Furigana": "としょかん",
+    "Romaji": "toshokan",
+    "Meaning": "library",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どちら",
+    "Furigana": "",
+    "Romaji": "dochira",
+    "Meaning": "which, where (polite)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "とても",
+    "Furigana": "",
+    "Romaji": "totemo",
+    "Meaning": "very much, quiet",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どなた",
+    "Furigana": "",
+    "Romaji": "donata",
+    "Meaning": "who (polite)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "隣り",
+    "Furigana": "となり",
+    "Romaji": "tonari",
+    "Meaning": "next to",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どの",
+    "Furigana": "",
+    "Romaji": "dono",
+    "Meaning": "which?",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "飛ぶ",
+    "Furigana": "とぶ",
+    "Romaji": "tobu",
+    "Meaning": "to fly",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "止まる",
+    "Furigana": "とまる",
+    "Romaji": "tomaru",
+    "Meaning": "to stop",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "友達",
+    "Furigana": "ともだち",
+    "Romaji": "tomodachi",
+    "Meaning": "friend",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "土曜日",
+    "Furigana": "どようび",
+    "Romaji": "doyoubi",
+    "Meaning": "Saturday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "鳥",
+    "Furigana": "とり",
+    "Romaji": "tori",
+    "Meaning": "bird",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "鶏肉",
+    "Furigana": "とりにく",
+    "Romaji": "toriniku",
+    "Meaning": "chicken meat",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "取る",
+    "Furigana": "とる",
+    "Romaji": "toru",
+    "Meaning": "to take",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "撮る",
+    "Furigana": "とる",
+    "Romaji": "toru",
+    "Meaning": "to take a photo",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どれ",
+    "Furigana": "",
+    "Romaji": "dore",
+    "Meaning": "which?",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "どんな",
+    "Furigana": "",
+    "Romaji": "donna",
+    "Meaning": "what kind of?",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ナイフ",
+    "Furigana": "",
+    "Romaji": "naifu",
+    "Meaning": "knife",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "中",
+    "Furigana": "なか",
+    "Romaji": "naka",
+    "Meaning": "inside",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "長い",
+    "Furigana": "ながい",
+    "Romaji": "nagai",
+    "Meaning": "long",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "鳴く",
+    "Furigana": "なく",
+    "Romaji": "naku",
+    "Meaning": "to sing, mew, moo",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "夏",
+    "Furigana": "なつ",
+    "Romaji": "natsu",
+    "Meaning": "summer",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "夏休み",
+    "Furigana": "なつやすみ",
+    "Romaji": "natsuyasumi",
+    "Meaning": "summer vacation",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~など",
+    "Furigana": "",
+    "Romaji": "~nado",
+    "Meaning": "and so on",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "七つ",
+    "Furigana": "ななつ",
+    "Romaji": "nanatsu",
+    "Meaning": "seven",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "何",
+    "Furigana": "なに",
+    "Romaji": "nani",
+    "Meaning": "what?",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "七日",
+    "Furigana": "なのか",
+    "Romaji": "nanoka",
+    "Meaning": "the 7th of a month, 7 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "名前",
+    "Furigana": "なまえ",
+    "Romaji": "namae",
+    "Meaning": "name",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "習う",
+    "Furigana": "ならう",
+    "Romaji": "narau",
+    "Meaning": "to learn",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "並ぶ",
+    "Furigana": "ならぶ",
+    "Romaji": "narabu",
+    "Meaning": "to form a line",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "並べる",
+    "Furigana": "ならべる",
+    "Romaji": "naraberu",
+    "Meaning": "to line up",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "なる",
+    "Furigana": "",
+    "Romaji": "naru",
+    "Meaning": "to become",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "二",
+    "Furigana": "に",
+    "Romaji": "ni",
+    "Meaning": "two",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "賑やか",
+    "Furigana": "にぎやか",
+    "Romaji": "nigiyaka",
+    "Meaning": "lively",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お肉",
+    "Furigana": "おにく",
+    "Romaji": "oniku",
+    "Meaning": "meat",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "西",
+    "Furigana": "にし",
+    "Romaji": "nishi",
+    "Meaning": "west",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~日",
+    "Furigana": "~にち",
+    "Romaji": "~nichi",
+    "Meaning": "…st, ..nd, ..th",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "日曜日",
+    "Furigana": "にちようび",
+    "Romaji": "nichiyoubi",
+    "Meaning": "Sunday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "荷物",
+    "Furigana": "にもつ",
+    "Romaji": "nimotsu",
+    "Meaning": "luggage",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ニュース",
+    "Furigana": "",
+    "Romaji": "nyuusu",
+    "Meaning": "news",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "庭",
+    "Furigana": "にわ",
+    "Romaji": "niwa",
+    "Meaning": "garden",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~人",
+    "Furigana": "~にん",
+    "Romaji": "~nin",
+    "Meaning": "… people",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "脱ぐ",
+    "Furigana": "ぬぐ",
+    "Romaji": "nugu",
+    "Meaning": "to take off clothes",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ネクタイ",
+    "Furigana": "",
+    "Romaji": "nekutai",
+    "Meaning": "necktie",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "寝る",
+    "Furigana": "ねる",
+    "Romaji": "neru",
+    "Meaning": "to go to bed",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~年",
+    "Furigana": "~ねん",
+    "Romaji": "~nen",
+    "Meaning": "~ years",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ノート",
+    "Furigana": "",
+    "Romaji": "nooto",
+    "Meaning": "notebook",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "登る",
+    "Furigana": "のぼる",
+    "Romaji": "noboru",
+    "Meaning": "to climb up",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "飲物",
+    "Furigana": "のみもの",
+    "Romaji": "nomimono",
+    "Meaning": "drinks",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "飲む",
+    "Furigana": "のむ",
+    "Romaji": "nomu",
+    "Meaning": "to drink",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "乗る",
+    "Furigana": "のる",
+    "Romaji": "noru",
+    "Meaning": "to take, to ride",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "歯",
+    "Furigana": "は",
+    "Romaji": "ha",
+    "Meaning": "teeth",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "パーテイー",
+    "Furigana": "",
+    "Romaji": "paateii",
+    "Meaning": "party",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "はい",
+    "Furigana": "",
+    "Romaji": "hai",
+    "Meaning": "yes",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~はい",
+    "Furigana": "",
+    "Romaji": "~hai",
+    "Meaning": "counter for cups",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "灰皿",
+    "Furigana": "はいざら",
+    "Romaji": "haizara",
+    "Meaning": "ashtray",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "入る",
+    "Furigana": "はいる",
+    "Romaji": "hairu",
+    "Meaning": "to enter",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "葉書",
+    "Furigana": "はがき",
+    "Romaji": "hagaki",
+    "Meaning": "postcard",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "履く",
+    "Furigana": "はく",
+    "Romaji": "haku",
+    "Meaning": "to put on shoes",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "箱",
+    "Furigana": "はこ",
+    "Romaji": "hako",
+    "Meaning": "box",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "橋",
+    "Furigana": "はし",
+    "Romaji": "hashi",
+    "Meaning": "bridge",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "箸",
+    "Furigana": "はし",
+    "Romaji": "hashi",
+    "Meaning": "chopsticks",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "始まる",
+    "Furigana": "はじまる",
+    "Romaji": "hajimaru",
+    "Meaning": "to begin, to start",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "始め",
+    "Furigana": "はじめ",
+    "Romaji": "hajime",
+    "Meaning": "start, the beginning",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "初めて",
+    "Furigana": "はじめて",
+    "Romaji": "hajimete",
+    "Meaning": "for the first time",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "走る",
+    "Furigana": "はしる",
+    "Romaji": "hashiru",
+    "Meaning": "to run",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "バス",
+    "Furigana": "",
+    "Romaji": "basu",
+    "Meaning": "bus",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "バター",
+    "Furigana": "",
+    "Romaji": "bataa",
+    "Meaning": "butter",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "二十歳",
+    "Furigana": "はたち",
+    "Romaji": "hatachi",
+    "Meaning": "20 years old",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "働く",
+    "Furigana": "はたらく",
+    "Romaji": "hataraku",
+    "Meaning": "to work",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "八",
+    "Furigana": "はち",
+    "Romaji": "hachi",
+    "Meaning": "eight",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "二十日",
+    "Furigana": "はつか",
+    "Romaji": "hatsuka",
+    "Meaning": "the 20th of the month, 20 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "花",
+    "Furigana": "はな",
+    "Romaji": "hana",
+    "Meaning": "flower",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "鼻",
+    "Furigana": "はな",
+    "Romaji": "hana",
+    "Meaning": "nose",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "話",
+    "Furigana": "はなし",
+    "Romaji": "hanashi",
+    "Meaning": "conversation, tale",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "話す",
+    "Furigana": "はなす",
+    "Romaji": "hanasu",
+    "Meaning": "to talk, to speak, to tell",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "母",
+    "Furigana": "はは",
+    "Romaji": "haha",
+    "Meaning": "my mother",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "早い",
+    "Furigana": "はやい",
+    "Romaji": "hayai",
+    "Meaning": "early",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "速い",
+    "Furigana": "はやい",
+    "Romaji": "hayai",
+    "Meaning": "fast, quick",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "春",
+    "Furigana": "はる",
+    "Romaji": "haru",
+    "Meaning": "spring",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "張る",
+    "Furigana": "はる",
+    "Romaji": "haru",
+    "Meaning": "to put something on, to stick",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "晴れる",
+    "Furigana": "はれる",
+    "Romaji": "hareru",
+    "Meaning": "to clear up",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~半",
+    "Furigana": "~はん",
+    "Romaji": "~han",
+    "Meaning": "Half~",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "晩",
+    "Furigana": "ばん",
+    "Romaji": "ban",
+    "Meaning": "evening",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~番",
+    "Furigana": "~ばん",
+    "Romaji": "~ban",
+    "Meaning": "No.~, ranking",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "パン",
+    "Furigana": "",
+    "Romaji": "pan",
+    "Meaning": "bread",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ハンカチ",
+    "Furigana": "",
+    "Romaji": "hankachi",
+    "Meaning": "handkerchief",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "番号",
+    "Furigana": "ばんごう",
+    "Romaji": "bangou",
+    "Meaning": "number",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "晩ご飯",
+    "Furigana": "ばんごはん",
+    "Romaji": "bangohan",
+    "Meaning": "dinner",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "半分",
+    "Furigana": "はんぶん",
+    "Romaji": "hanbun",
+    "Meaning": "half",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "東",
+    "Furigana": "ひがし",
+    "Romaji": "higashi",
+    "Meaning": "east",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~匹",
+    "Furigana": "~ひき",
+    "Romaji": "~hiki",
+    "Meaning": "counter for animals",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "引く",
+    "Furigana": "ひく",
+    "Romaji": "hiku",
+    "Meaning": "to pull",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "弾く",
+    "Furigana": "ひく",
+    "Romaji": "hiku",
+    "Meaning": "to play (an instrument)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "低い",
+    "Furigana": "ひくい",
+    "Romaji": "hikui",
+    "Meaning": "low",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "飛行機",
+    "Furigana": "ひこうき",
+    "Romaji": "hikouki",
+    "Meaning": "plane",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "左",
+    "Furigana": "ひだり",
+    "Romaji": "hidari",
+    "Meaning": "left",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "人",
+    "Furigana": "ひと",
+    "Romaji": "hito",
+    "Meaning": "person",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一つ",
+    "Furigana": "ひとつ",
+    "Romaji": "hitotsu",
+    "Meaning": "one",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一月",
+    "Furigana": "ひとつき",
+    "Romaji": "hitotsuki",
+    "Meaning": "one month",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "一人",
+    "Furigana": "ひとり",
+    "Romaji": "hitori",
+    "Meaning": "one person",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "暇",
+    "Furigana": "ひま",
+    "Romaji": "hima",
+    "Meaning": "free time, leisure",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "百",
+    "Furigana": "ひゃく",
+    "Romaji": "hyaku",
+    "Meaning": "hundred",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "病院",
+    "Furigana": "びょういん",
+    "Romaji": "byouin",
+    "Meaning": "hospital",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "病気",
+    "Furigana": "びょうき",
+    "Romaji": "byouki",
+    "Meaning": "ill, sick",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "平仮名",
+    "Furigana": "ひらがな",
+    "Romaji": "hiragana",
+    "Meaning": "hiragana characters",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "昼",
+    "Furigana": "ひる",
+    "Romaji": "hiru",
+    "Meaning": "noon",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "昼ご飯",
+    "Furigana": "ひるごはん",
+    "Romaji": "hirugohan",
+    "Meaning": "lunch",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "広い",
+    "Furigana": "ひろい",
+    "Romaji": "hiroi",
+    "Meaning": "wide, spacious",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "フィルム",
+    "Furigana": "",
+    "Romaji": "firumu",
+    "Meaning": "film",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "封筒",
+    "Furigana": "ふうとう",
+    "Romaji": "fuutou",
+    "Meaning": "envelope",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "プール",
+    "Furigana": "",
+    "Romaji": "puuru",
+    "Meaning": "pool",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "フォーク",
+    "Furigana": "",
+    "Romaji": "fooku",
+    "Meaning": "fork",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "吹く",
+    "Furigana": "ふく",
+    "Romaji": "fuku",
+    "Meaning": "to blow (wind)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "服",
+    "Furigana": "ふく",
+    "Romaji": "fuku",
+    "Meaning": "clothes",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "二つ",
+    "Furigana": "ふたつ",
+    "Romaji": "futatsu",
+    "Meaning": "two",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "豚肉",
+    "Furigana": "ぶたにく",
+    "Romaji": "butaniku",
+    "Meaning": "pork",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "二人",
+    "Furigana": "ふたり",
+    "Romaji": "futari",
+    "Meaning": "two people",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "二日",
+    "Furigana": "ふつか",
+    "Romaji": "futsuka",
+    "Meaning": "2nd day of the month, 2 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "太い",
+    "Furigana": "ふとい",
+    "Romaji": "futoi",
+    "Meaning": "thick, fat",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "降る",
+    "Furigana": "ふる",
+    "Romaji": "furu",
+    "Meaning": "to fall (rain, snow)",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "古い",
+    "Furigana": "ふるい",
+    "Romaji": "furui",
+    "Meaning": "old",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お風呂",
+    "Furigana": "おふろ",
+    "Romaji": "ofuro",
+    "Meaning": "bath",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~分",
+    "Furigana": "~ふん",
+    "Romaji": "~fun",
+    "Meaning": "~minutes",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ページ",
+    "Furigana": "",
+    "Romaji": "peeji",
+    "Meaning": "page",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "下手",
+    "Furigana": "へた",
+    "Romaji": "heta",
+    "Meaning": "not good at something",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ベッド",
+    "Furigana": "",
+    "Romaji": "beddo",
+    "Meaning": "bed",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "部屋",
+    "Furigana": "へや",
+    "Romaji": "heya",
+    "Meaning": "room",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "辺",
+    "Furigana": "へん",
+    "Romaji": "hen",
+    "Meaning": "side, part, area",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ペン",
+    "Furigana": "ぺん",
+    "Romaji": "pen",
+    "Meaning": "pen",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "勉強",
+    "Furigana": "べんきょう",
+    "Romaji": "benkyou",
+    "Meaning": "to study",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "便利",
+    "Furigana": "べんり",
+    "Romaji": "benri",
+    "Meaning": "convenient",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "方",
+    "Furigana": "ほう",
+    "Romaji": "hou",
+    "Meaning": "direction; way; side",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "帽子",
+    "Furigana": "ぼうし",
+    "Romaji": "boushi",
+    "Meaning": "hat",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ボールペン",
+    "Furigana": "",
+    "Romaji": "boorupen",
+    "Meaning": "ballpen",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "他",
+    "Furigana": "ほか",
+    "Romaji": "hoka",
+    "Meaning": "another, other",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ポケット",
+    "Furigana": "",
+    "Romaji": "poketto",
+    "Meaning": "pocket",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "欲しい",
+    "Furigana": "ほしい",
+    "Romaji": "hoshii",
+    "Meaning": "to want something",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "細い",
+    "Furigana": "ほそい",
+    "Romaji": "hosoi",
+    "Meaning": "thin, fine",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ボタン",
+    "Furigana": "",
+    "Romaji": "botan",
+    "Meaning": "button",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ホテル",
+    "Furigana": "",
+    "Romaji": "hoteru",
+    "Meaning": "hotel",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "本",
+    "Furigana": "ほん",
+    "Romaji": "hon",
+    "Meaning": "book",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~本",
+    "Furigana": "~ほん",
+    "Romaji": "~hon",
+    "Meaning": "counter for long objects",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "本棚",
+    "Furigana": "ほんだな",
+    "Romaji": "hondana",
+    "Meaning": "bookshelf",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "本当に",
+    "Furigana": "ほんとうに",
+    "Romaji": "hontouni",
+    "Meaning": "'really!'",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~枚",
+    "Furigana": "~まい",
+    "Romaji": "~mai",
+    "Meaning": "counter for thin objects",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "毎朝",
+    "Furigana": "まいあさ",
+    "Romaji": "maiasa",
+    "Meaning": "every morning",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "毎月",
+    "Furigana": "まいつき/まいげつ",
+    "Romaji": "maitsuki/maigetsu",
+    "Meaning": "every month",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "毎週",
+    "Furigana": "まいしゅう",
+    "Romaji": "maishuu",
+    "Meaning": "every week",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "毎日",
+    "Furigana": "まいにち",
+    "Romaji": "mainichi",
+    "Meaning": "every day",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "毎年",
+    "Furigana": "まいとし/まいねん",
+    "Romaji": "maitoshi/mainen",
+    "Meaning": "every year",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "毎晩",
+    "Furigana": "まいばん",
+    "Romaji": "maiban",
+    "Meaning": "every evening",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "前",
+    "Furigana": "まえ",
+    "Romaji": "mae",
+    "Meaning": "front",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~前",
+    "Furigana": "~まえ",
+    "Romaji": "~mae",
+    "Meaning": "before, in front of",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "曲がる",
+    "Furigana": "まがる",
+    "Romaji": "magaru",
+    "Meaning": "to turn",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "不味い",
+    "Furigana": "まずい",
+    "Romaji": "mazui",
+    "Meaning": "bad tasting",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "また",
+    "Furigana": "",
+    "Romaji": "mata",
+    "Meaning": "also, again",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "まだ",
+    "Furigana": "",
+    "Romaji": "mada",
+    "Meaning": "not yet",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "町",
+    "Furigana": "まち",
+    "Romaji": "machi",
+    "Meaning": "city, town",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "待つ",
+    "Furigana": "まつ",
+    "Romaji": "matsu",
+    "Meaning": "to wait",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "真直ぐに",
+    "Furigana": "まっすぐに",
+    "Romaji": "massugu ni",
+    "Meaning": "straight ahead",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "マッチ",
+    "Furigana": "",
+    "Romaji": "machi",
+    "Meaning": "matches",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "窓",
+    "Furigana": "まど",
+    "Romaji": "mado",
+    "Meaning": "window",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "丸い",
+    "Furigana": "まるい",
+    "Romaji": "marui",
+    "Meaning": "round",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "万",
+    "Furigana": "まん",
+    "Romaji": "man",
+    "Meaning": "ten thousand",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "万年筆",
+    "Furigana": "まんねんひつ",
+    "Romaji": "mannenhitsu",
+    "Meaning": "fountain pen",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "磨く",
+    "Furigana": "みがく",
+    "Romaji": "migaku",
+    "Meaning": "to polish, to brush",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "右",
+    "Furigana": "みぎ",
+    "Romaji": "migi",
+    "Meaning": "right",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "短い",
+    "Furigana": "みじかい",
+    "Romaji": "mijikai",
+    "Meaning": "short",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "お水",
+    "Furigana": "おみず",
+    "Romaji": "omizu",
+    "Meaning": "water",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "店",
+    "Furigana": "みせ",
+    "Romaji": "mise",
+    "Meaning": "shop",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "見せる",
+    "Furigana": "みせる",
+    "Romaji": "miseru",
+    "Meaning": "to look, to watch",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "道",
+    "Furigana": "みち",
+    "Romaji": "michi",
+    "Meaning": "road",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "三日",
+    "Furigana": "みっか",
+    "Romaji": "mikka",
+    "Meaning": "3rd day of a month, 3 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "三つ",
+    "Furigana": "みっつ",
+    "Romaji": "mittsu",
+    "Meaning": "three",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "皆さん",
+    "Furigana": "みなさん",
+    "Romaji": "minsan",
+    "Meaning": "everyone",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "南",
+    "Furigana": "みなみ",
+    "Romaji": "minami",
+    "Meaning": "south",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "耳",
+    "Furigana": "みみ",
+    "Romaji": "mimi",
+    "Meaning": "ear",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "見る",
+    "Furigana": "みる",
+    "Romaji": "miru",
+    "Meaning": "to see, to watch",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "皆",
+    "Furigana": "みんな",
+    "Romaji": "minna",
+    "Meaning": "all, everyone",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "六日",
+    "Furigana": "むいか",
+    "Romaji": "muika",
+    "Meaning": "the 6th day of a month, 6 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "向こう",
+    "Furigana": "むこう",
+    "Romaji": "mukou",
+    "Meaning": "over there",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "難しい",
+    "Furigana": "むずかしい",
+    "Romaji": "muzukashii",
+    "Meaning": "difficult",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "六つ",
+    "Furigana": "むっつ",
+    "Romaji": "muttsu",
+    "Meaning": "six",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "目",
+    "Furigana": "め",
+    "Romaji": "me",
+    "Meaning": "eye",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "メートル",
+    "Furigana": "",
+    "Romaji": "meetoru",
+    "Meaning": "meter",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "めがね",
+    "Furigana": "",
+    "Romaji": "megane",
+    "Meaning": "a pair of glasses",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "もう",
+    "Furigana": "",
+    "Romaji": "mou",
+    "Meaning": "already, yet",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "もう",
+    "Furigana": "",
+    "Romaji": "mou",
+    "Meaning": "(one) more",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "木曜日",
+    "Furigana": "もくようび",
+    "Romaji": "mokuyoubi",
+    "Meaning": "Thursday",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "もしもし",
+    "Furigana": "",
+    "Romaji": "moshimoshi",
+    "Meaning": "'hello' on the phone",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "勿論",
+    "Furigana": "もちろん",
+    "Romaji": "mochiron",
+    "Meaning": "of course",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "持つ",
+    "Furigana": "もつ",
+    "Romaji": "motsu",
+    "Meaning": "to have, to own",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "もっと",
+    "Furigana": "",
+    "Romaji": "motto",
+    "Meaning": "more",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "物",
+    "Furigana": "もの",
+    "Romaji": "mono",
+    "Meaning": "thing",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "門",
+    "Furigana": "もん",
+    "Romaji": "mon",
+    "Meaning": "gate",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "問題",
+    "Furigana": "もんだい",
+    "Romaji": "mondai",
+    "Meaning": "problem, question",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "~屋",
+    "Furigana": "~や",
+    "Romaji": "~ya",
+    "Meaning": "shop / store",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "八百屋",
+    "Furigana": "やおや",
+    "Romaji": "yaoya",
+    "Meaning": "vegetable shop",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "野菜",
+    "Furigana": "やさい",
+    "Romaji": "yasai",
+    "Meaning": "vegetable",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "優しい",
+    "Furigana": "やさしい",
+    "Romaji": "yasashii",
+    "Meaning": "gentle",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "安い",
+    "Furigana": "やすい",
+    "Romaji": "yasui",
+    "Meaning": "cheap, inexpensive",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "休み",
+    "Furigana": "やすみ",
+    "Romaji": "yasumi",
+    "Meaning": "holiday, vacation",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "休む",
+    "Furigana": "やすむ",
+    "Romaji": "yasumu",
+    "Meaning": "to rest",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "八つ",
+    "Furigana": "やっつ",
+    "Romaji": "yattsu",
+    "Meaning": "eight",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "山",
+    "Furigana": "やま",
+    "Romaji": "yama",
+    "Meaning": "mountain",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "八日",
+    "Furigana": "ようか",
+    "Romaji": "youka",
+    "Meaning": "8th day of the month, 8 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "洋服",
+    "Furigana": "ようふく",
+    "Romaji": "youfuku",
+    "Meaning": "western style clothing",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "よく",
+    "Furigana": "",
+    "Romaji": "yoku",
+    "Meaning": "often",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "横",
+    "Furigana": "よこ",
+    "Romaji": "yoko",
+    "Meaning": "horizontal",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "四日",
+    "Furigana": "よっか",
+    "Romaji": "yokka",
+    "Meaning": "4th day of the month, 4 days",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "四つ",
+    "Furigana": "よっつ",
+    "Romaji": "yottsu",
+    "Meaning": "four",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "呼ぶ",
+    "Furigana": "よぶ",
+    "Romaji": "yobu",
+    "Meaning": "to call",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "読む",
+    "Furigana": "よむ",
+    "Romaji": "yomu",
+    "Meaning": "to read",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "夜",
+    "Furigana": "よる",
+    "Romaji": "yoru",
+    "Meaning": "night",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "来月",
+    "Furigana": "らいげつ",
+    "Romaji": "raigetsu",
+    "Meaning": "next month",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "来週",
+    "Furigana": "らいしゅう",
+    "Romaji": "raishuu",
+    "Meaning": "next week",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "来年",
+    "Furigana": "らいねん",
+    "Romaji": "rainen",
+    "Meaning": "next year",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ラジオ",
+    "Furigana": "",
+    "Romaji": "rajio",
+    "Meaning": "radio",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "立派",
+    "Furigana": "りっぱ",
+    "Romaji": "rippa",
+    "Meaning": "splendid",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "留学生",
+    "Furigana": "りゅうがくせい",
+    "Romaji": "ryuugakusei",
+    "Meaning": "foreign student",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "両親",
+    "Furigana": "りょうしん",
+    "Romaji": "ryoushin",
+    "Meaning": "parents",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "料理",
+    "Furigana": "りょうり",
+    "Romaji": "ryouri",
+    "Meaning": "cooking",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "旅行",
+    "Furigana": "りょこう",
+    "Romaji": "ryokou",
+    "Meaning": "travel",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "れい",
+    "Furigana": "rei",
+    "Romaji": "zero",
+    "Meaning": "zero",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "冷蔵庫",
+    "Furigana": "れいぞうこ",
+    "Romaji": "reizouko",
+    "Meaning": "refrigerator",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "レコード",
+    "Furigana": "",
+    "Romaji": "rekoodo",
+    "Meaning": "record",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "レストラン",
+    "Furigana": "",
+    "Romaji": "resutoran",
+    "Meaning": "restaurant",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "練習",
+    "Furigana": "れんしゅう",
+    "Romaji": "renshuu",
+    "Meaning": "practice",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "六",
+    "Furigana": "ろく",
+    "Romaji": "roku",
+    "Meaning": "six",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "ワイシャツ",
+    "Furigana": "",
+    "Romaji": "waishatsu",
+    "Meaning": "white shirt",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "若い",
+    "Furigana": "わかい",
+    "Romaji": "wakai",
+    "Meaning": "young",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "分かる",
+    "Furigana": "わかる",
+    "Romaji": "wakaru",
+    "Meaning": "to know, to understand",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "忘れる",
+    "Furigana": "わすれる",
+    "Romaji": "wasureru",
+    "Meaning": "to forget",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "私",
+    "Furigana": "わたし",
+    "Romaji": "watashi",
+    "Meaning": "me, I",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "渡す",
+    "Furigana": "わたす",
+    "Romaji": "watasu",
+    "Meaning": "to hand over",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "渡る",
+    "Furigana": "わたる",
+    "Romaji": "wataru",
+    "Meaning": "to cross",
+    "Type": ""
+  },
+  {
+    "Vocabulary": "悪い",
+    "Furigana": "わるい",
+    "Romaji": "warui",
+    "Meaning": "bad",
+    "Type": ""
+  }
+]

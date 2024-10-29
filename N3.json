@@ -1,0 +1,1730 @@
+[
+  {
+    "Vocabulary": "明かり",
+    "Furigana": "あかり",
+    "Romaji": "akari",
+    "Type": "Noun",
+    "Meaning": "light; illumination; glow; gleam",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "明ける",
+    "Furigana": "あける",
+    "Romaji": "akeru",
+    "Type": "Verb, Ichidan verb, Transitive verb",
+    "Meaning": "to dawn,to become daylight",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "明らか",
+    "Furigana": "あきらか",
+    "Romaji": "akiraka",
+    "Type": "Adjective, な-adjective",
+    "Meaning": "clear; obvious",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "悪魔",
+    "Furigana": "あくま",
+    "Romaji": "akuma",
+    "Type": "Noun",
+    "Meaning": "devil; demon; fiend; Satan",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "暗記",
+    "Furigana": "あんき",
+    "Romaji": "anki",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "memorization; learning by heart",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "新た",
+    "Furigana": "あらた",
+    "Romaji": "arata",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "new; fresh; novel",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "有らゆる",
+    "Furigana": "あらゆる",
+    "Romaji": "arayuru",
+    "Type": "Pre-noun adjectival",
+    "Meaning": "all; every",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "集まり",
+    "Furigana": "あつまり",
+    "Romaji": "atsumari",
+    "Type": "Noun",
+    "Meaning": "gathering; meeting; assembly; collection; attendance",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "部分",
+    "Furigana": "ぶぶん",
+    "Romaji": "bubun",
+    "Type": "Noun",
+    "Meaning": "portion; section; part",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "分",
+    "Furigana": "ぶん",
+    "Romaji": "bun",
+    "Type": "Noun, Suffix",
+    "Meaning": "part; segment; share; ration",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "文明",
+    "Furigana": "ぶんめい",
+    "Romaji": "bunmei",
+    "Type": "Noun",
+    "Meaning": "civilization; culture",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "分析",
+    "Furigana": "ぶんせき",
+    "Romaji": "bunseki",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "analysis",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "分野",
+    "Furigana": "ぶんや",
+    "Romaji": "bunya",
+    "Type": "Noun",
+    "Meaning": "field; sphere; realm; division; branch",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "父親",
+    "Furigana": "ちちおや",
+    "Romaji": "chichioya",
+    "Type": "Noun",
+    "Meaning": "father",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "地平線",
+    "Furigana": "ちへいせん",
+    "Romaji": "chiheisen",
+    "Type": "Noun",
+    "Meaning": "horizon (related to land)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "地位",
+    "Furigana": "ちい",
+    "Romaji": "chii",
+    "Type": "Noun",
+    "Meaning": "(social) position; status",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "長期",
+    "Furigana": "ちょうき",
+    "Romaji": "chouki",
+    "Type": "Noun",
+    "Meaning": "long-term",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "中",
+    "Furigana": "ちゅう",
+    "Romaji": "chuu",
+    "Type": "Noun, Prefix, Suffix",
+    "Meaning": "during; while; medium; middle",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "中学",
+    "Furigana": "ちゅうがく",
+    "Romaji": "chuugaku",
+    "Type": "Noun",
+    "Meaning": "junior high school; middle school",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "昼食",
+    "Furigana": "ちゅうしょく",
+    "Romaji": "chuushoku",
+    "Type": "Noun",
+    "Meaning": "lunch; midday meal",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "大部分",
+    "Furigana": "だいぶぶん",
+    "Romaji": "daibubun",
+    "Type": "Noun",
+    "Meaning": "most part; greater part; majority",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "駄目",
+    "Furigana": "だめ",
+    "Romaji": "dame",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "no good; cannot",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "男子",
+    "Furigana": "だんし",
+    "Romaji": "danshi",
+    "Type": "Noun",
+    "Meaning": "youth; young man",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "出会い",
+    "Furigana": "であい",
+    "Romaji": "deai",
+    "Type": "Noun",
+    "Meaning": "meeting; rendezvous; encounter",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "出会う",
+    "Furigana": "であう",
+    "Romaji": "deau",
+    "Type": "Verb",
+    "Meaning": "to meet (by chance); to come across; to run across; to encounter",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "読書",
+    "Furigana": "どくしょ",
+    "Romaji": "dokusho",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "reading",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "努力",
+    "Furigana": "どりょく",
+    "Romaji": "doryoku",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "effort; exertion; endeavor; hard work; striving",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "同一",
+    "Furigana": "どういつ",
+    "Romaji": "douitsu",
+    "Type": "Adjective, な-adjective",
+    "Meaning": "identical; same; one and the same; equal",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "円",
+    "Furigana": "えん",
+    "Romaji": "en",
+    "Type": "Noun",
+    "Meaning": "yen; Japanese monetary unit; circle",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "不利",
+    "Furigana": "ふり",
+    "Romaji": "furi",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "disadvantage; handicap; unfavorable position",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "不足",
+    "Furigana": "ふそく",
+    "Romaji": "fusoku",
+    "Type": "Noun, Adjective, な-adjective, Verb, Suru verb",
+    "Meaning": "insufficiency; shortage; deficiency; lack; dearth",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "再び",
+    "Furigana": "ふたたび",
+    "Romaji": "futatabi",
+    "Type": "Adverb",
+    "Meaning": "again; once more; a second time",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "外交",
+    "Furigana": "がいこう",
+    "Romaji": "gaikou",
+    "Type": "Noun",
+    "Meaning": "diplomacy",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "外出",
+    "Furigana": "がいしゅつ",
+    "Romaji": "gaishutsu",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "going out; outing; leaving (one's home, office, etc.)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "学期",
+    "Furigana": "がっき",
+    "Romaji": "gakki",
+    "Type": "Noun",
+    "Meaning": "school term; semester",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "学",
+    "Furigana": "がく",
+    "Romaji": "gaku",
+    "Type": "Noun, Suffix",
+    "Meaning": "learning; education; study of",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "学問",
+    "Furigana": "がくもん",
+    "Romaji": "gakumon",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "scholarship; study; learning",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "学者",
+    "Furigana": "がくしゃ",
+    "Romaji": "gakusha",
+    "Type": "Noun",
+    "Meaning": "scholar",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "学習",
+    "Furigana": "がくしゅう",
+    "Romaji": "gakushuu",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "study; learning; tutorial",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "議長",
+    "Furigana": "ぎちょう",
+    "Romaji": "gichou",
+    "Type": "Noun",
+    "Meaning": "chairman; president; moderator",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "議会",
+    "Furigana": "ぎかい",
+    "Romaji": "gikai",
+    "Type": "Noun",
+    "Meaning": "congress; parliament; diet; legislative assembly",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "語学",
+    "Furigana": "ごがく",
+    "Romaji": "gogaku",
+    "Type": "Noun",
+    "Meaning": "study of foreign languages; linguistics",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "激しい",
+    "Furigana": "はげしい",
+    "Romaji": "hageshii",
+    "Type": "Adjective, い-adjective",
+    "Meaning": "violent; extreme; intense",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "母親",
+    "Furigana": "ははおや",
+    "Romaji": "hahaoya",
+    "Type": "Noun",
+    "Meaning": "mother",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "博物館",
+    "Furigana": "はくぶつかん",
+    "Romaji": "hakubutsukan",
+    "Type": "Noun",
+    "Meaning": "museum",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "販売",
+    "Furigana": "はんばい",
+    "Romaji": "hanbai",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "sales; selling; marketing",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "発明",
+    "Furigana": "はつめい",
+    "Romaji": "hatsumei",
+    "Type": "Noun, Adjective, な-adjective, Verb, Suru verb",
+    "Meaning": "invention",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "外す",
+    "Furigana": "はずす",
+    "Romaji": "hazusu",
+    "Type": "Verb, Godan verb, Transitive verb",
+    "Meaning": "to remove; to undo; to drop; to miss",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "品",
+    "Furigana": "ひん",
+    "Romaji": "hin",
+    "Type": "Noun",
+    "Meaning": "elegance, article",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一言",
+    "Furigana": "ひとこと",
+    "Romaji": "hitokoto",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "single word; a few words; brief comment",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一人一人",
+    "Furigana": "ひとりひとり",
+    "Romaji": "hitorihitori",
+    "Type": "Noun, Suffix",
+    "Meaning": "one by one; each; one at a time",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "本物",
+    "Furigana": "ほんもの",
+    "Romaji": "honmono",
+    "Type": "Noun",
+    "Meaning": "genuine article; real thing; real deal",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "本人",
+    "Furigana": "ほんにん",
+    "Romaji": "honnin",
+    "Type": "Noun",
+    "Meaning": "the person in question; the person themselves; said person",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一致",
+    "Furigana": "いっち",
+    "Romaji": "icchi",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "agreement; union; match ; coincidence",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一時",
+    "Furigana": "いちじ",
+    "Romaji": "ichiji",
+    "Type": "Noun",
+    "Meaning": "one o'clock",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "意外",
+    "Furigana": "いがい",
+    "Romaji": "igai",
+    "Type": "Adjective, な-adjective, Adverb",
+    "Meaning": "unexpected; surprising",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一家",
+    "Furigana": "いっか",
+    "Romaji": "ikka",
+    "Type": "Noun",
+    "Meaning": "a family; a household; a home; one's family; whole family",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "今に",
+    "Furigana": "いまに",
+    "Romaji": "imani",
+    "Type": "Adverb",
+    "Meaning": "before long; even now",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "今にも",
+    "Furigana": "いまにも",
+    "Romaji": "imanimo",
+    "Type": "Adverb",
+    "Meaning": "at any moment; at any minute; on the verge of",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一般",
+    "Furigana": "いっぱん",
+    "Romaji": "ippan",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "general; universal; ordinary; average; common",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一方",
+    "Furigana": "いっぽう",
+    "Romaji": "ippou",
+    "Type": "Noun",
+    "Meaning": "one (esp. of two); one way; the other direction; although",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一生",
+    "Furigana": "いっしょう",
+    "Romaji": "isshou",
+    "Type": "Noun",
+    "Meaning": "whole life; a lifetime; a generation",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一種",
+    "Furigana": "いっしゅ",
+    "Romaji": "isshu",
+    "Type": "Noun, Adverb",
+    "Meaning": "species; kind; variety",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一瞬",
+    "Furigana": "いっしゅん",
+    "Romaji": "isshun",
+    "Type": "Noun",
+    "Meaning": "instant; moment; for an instant",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一層",
+    "Furigana": "いっそう",
+    "Romaji": "issou",
+    "Type": "Noun, Adverb",
+    "Meaning": "much more; still more; all the more; single layer; sooner; preferably",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "一体",
+    "Furigana": "いったい",
+    "Romaji": "ittai",
+    "Type": "Noun, Adverb",
+    "Meaning": "(what) the heck; (why) in the world",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "所謂",
+    "Furigana": "いわゆる",
+    "Romaji": "iwayuru",
+    "Type": "Pre-noun adjectival",
+    "Meaning": "what is called; as it is called; the so-called; so to speak",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "邪魔",
+    "Furigana": "じゃま",
+    "Romaji": "jama",
+    "Type": "Noun, Adjective, な-adjective, Suru verb",
+    "Meaning": "hindrance",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "化学",
+    "Furigana": "かがく",
+    "Romaji": "kagaku",
+    "Type": "Noun",
+    "Meaning": "chemistry",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "会",
+    "Furigana": "かい",
+    "Romaji": "kai",
+    "Type": "Noun, Suffix",
+    "Meaning": "meeting; assembly; party; association; club",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "会員",
+    "Furigana": "かいいん",
+    "Romaji": "kaiin",
+    "Type": "Noun",
+    "Meaning": "member",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "海外",
+    "Furigana": "かいがい",
+    "Romaji": "kaigai",
+    "Type": "Noun, Adjective",
+    "Meaning": "foreign; abroad; overseas",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "会合",
+    "Furigana": "かいごう",
+    "Romaji": "kaigou",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "meeting; assembly; gathering; association",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "会計",
+    "Furigana": "かいけい",
+    "Romaji": "kaikei",
+    "Type": "Noun",
+    "Meaning": "finance; account; treasurer; bill",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "開始",
+    "Furigana": "かいし",
+    "Romaji": "kaishi",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "start; commencement; beginning; initiation",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "科目",
+    "Furigana": "かもく",
+    "Romaji": "kamoku",
+    "Type": "Noun",
+    "Meaning": "(school) subject; curriculum; course",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "権利",
+    "Furigana": "けんり",
+    "Romaji": "kenri",
+    "Type": "Noun",
+    "Meaning": "right; privilege",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "基本",
+    "Furigana": "きほん",
+    "Romaji": "kihon",
+    "Type": "Noun",
+    "Meaning": "basics; fundamentals; basis; foundation",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "記事",
+    "Furigana": "きじ",
+    "Romaji": "kiji",
+    "Type": "Noun",
+    "Meaning": "article; news story; report; account",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "気味",
+    "Furigana": "きみ",
+    "Romaji": "kimi",
+    "Type": "Noun",
+    "Meaning": "sensation; feeling ; tendency",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "記念",
+    "Furigana": "きねん",
+    "Romaji": "kinen",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "commemoration; celebration; honoring the memory of something",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "気に入る",
+    "Furigana": "きにいる",
+    "Romaji": "kiniiru",
+    "Type": "Verb, Godan verb, Expression",
+    "Meaning": "to like; to take a liking to",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "記入",
+    "Furigana": "きにゅう",
+    "Romaji": "kinyuu",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "entry; filling in; filling out",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "記憶",
+    "Furigana": "きおく",
+    "Romaji": "kioku",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "memory; recollection; remembrance",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "記者",
+    "Furigana": "きしゃ",
+    "Romaji": "kisha",
+    "Type": "Noun",
+    "Meaning": "reporter; journalist",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "期待",
+    "Furigana": "きたい",
+    "Romaji": "kitai",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "expectation; anticipation; hope",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "国家",
+    "Furigana": "こっか",
+    "Romaji": "kokka",
+    "Type": "Noun",
+    "Meaning": "state; country; nation",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "国会",
+    "Furigana": "こっかい",
+    "Romaji": "kokkai",
+    "Type": "Noun",
+    "Meaning": "National Diet; legislative assembly of Japan; parliament; congress",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "国境",
+    "Furigana": "こっきょう",
+    "Romaji": "kokkyou",
+    "Type": "Noun",
+    "Meaning": "national border",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "国語",
+    "Furigana": "こくご",
+    "Romaji": "kokugo",
+    "Type": "Noun",
+    "Meaning": "national language",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "国民",
+    "Furigana": "こくみん",
+    "Romaji": "kokumin",
+    "Type": "Noun",
+    "Meaning": "people (of a country); nation; citizen; national",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "今後",
+    "Furigana": "こんご",
+    "Romaji": "kongo",
+    "Type": "Noun, Adverbial Noun",
+    "Meaning": "from now on; hereafter",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "今回",
+    "Furigana": "こんかい",
+    "Romaji": "konkai",
+    "Type": "Noun, Adverbial Noun",
+    "Meaning": "now; this time; lately",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "今日",
+    "Furigana": "こんにち",
+    "Romaji": "konnichi",
+    "Type": "Expression",
+    "Meaning": "today; this day",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "転ぶ",
+    "Furigana": "ころぶ",
+    "Romaji": "korobu",
+    "Type": "Verb, Godan verb, Intransitive verb",
+    "Meaning": "to fall down; to fall over",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "高速",
+    "Furigana": "こうそく",
+    "Romaji": "kousoku",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "high-speed; rapid; express",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "訓練",
+    "Furigana": "くんれん",
+    "Romaji": "kunren",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "training; drill; practice; discipline",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "教科書",
+    "Furigana": "きょうかしょ",
+    "Romaji": "kyoukasho",
+    "Type": "Noun",
+    "Meaning": "textbook; coursebook; schoolbook",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "協力",
+    "Furigana": "きょうりょく",
+    "Romaji": "kyouryoku",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "cooperation; collaboration",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "強力",
+    "Furigana": "きょうりょく",
+    "Romaji": "kyouryoku",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "powerful; strong",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "急激",
+    "Furigana": "きゅうげき",
+    "Romaji": "kyuugeki",
+    "Type": "Adjective, な-adjective",
+    "Meaning": "sudden; abrupt; rapid; sharp; drastic; radical",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "急に",
+    "Furigana": "きゅうに",
+    "Romaji": "kyuuni",
+    "Type": "Adverb",
+    "Meaning": "swiftly; rapidly; quickly; immediately; hastily",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "吸収",
+    "Furigana": "きゅうしゅう",
+    "Romaji": "kyuushuu",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "absorption; suction; attraction",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "急速",
+    "Furigana": "きゅうそく",
+    "Romaji": "kyuusoku",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "rapid (e.g. progress)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "真面目",
+    "Furigana": "まじめ",
+    "Romaji": "majime",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "serious; earnest",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "真っ赤",
+    "Furigana": "まっか",
+    "Romaji": "makka",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "bright red; deep red; flushed (of face)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "学ぶ",
+    "Furigana": "まなぶ",
+    "Romaji": "manabu",
+    "Type": "Verb, Godan verb, Transitive verb",
+    "Meaning": "to study (in depth); to learn; to take lessons in",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "万一",
+    "Furigana": "まんいち",
+    "Romaji": "manichi",
+    "Type": "Noun, Adverb",
+    "Meaning": "emergency; unlikely event ; by some chance; by some possibility",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "満足",
+    "Furigana": "まんぞく",
+    "Romaji": "manzoku",
+    "Type": "Noun, Adjective, な-adjective, Verb, Suru verb",
+    "Meaning": "satisfaction; contentment; sufficient; enough",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "明確",
+    "Furigana": "めいかく",
+    "Romaji": "meikaku",
+    "Type": "Adjective, な-adjective",
+    "Meaning": "clear; precise; definite; distinct",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "飯",
+    "Furigana": "めし",
+    "Romaji": "meshi",
+    "Type": "Noun",
+    "Meaning": "cooked rice; meal",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "味方",
+    "Furigana": "みかた",
+    "Romaji": "mikata",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "friend; ally; supporter; taking sides with; supporting",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "魅力",
+    "Furigana": "みりょく",
+    "Romaji": "miryoku",
+    "Type": "Noun",
+    "Meaning": "charm; fascination; glamour; attraction; appeal",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "木曜",
+    "Furigana": "もくよう",
+    "Romaji": "mokuyou",
+    "Type": "Noun, Adverbial Noun",
+    "Meaning": "Thursday",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "半ば",
+    "Furigana": "なかば",
+    "Romaji": "nakaba",
+    "Type": "Noun, Adverbial Noun, Suffix, Adverbial noun",
+    "Meaning": "middle; half; semi; halfway; partly",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "熱心",
+    "Furigana": "ねっしん",
+    "Romaji": "nesshin",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "enthusiastic; eager",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "日本",
+    "Furigana": "にほん",
+    "Romaji": "nihon",
+    "Type": "Noun",
+    "Meaning": "Japan",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "能力",
+    "Furigana": "のうりょく",
+    "Romaji": "nouryoku",
+    "Type": "Noun",
+    "Meaning": "ability; faculty",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "入場",
+    "Furigana": "にゅうじょう",
+    "Romaji": "nyuujou",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "entrance; admission; entering",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "お昼",
+    "Furigana": "おひる",
+    "Romaji": "ohiru",
+    "Type": "Noun",
+    "Meaning": "lunch; midday; daytime",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "収める",
+    "Furigana": "おさめる",
+    "Romaji": "osameru",
+    "Type": "Verb, Ichidan verb, Transitive verb",
+    "Meaning": "to supply; to dedicate; to make an offering; to pay",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "連続",
+    "Furigana": "れんぞく",
+    "Romaji": "renzoku",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "continuation; succession; series",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "利益",
+    "Furigana": "りえき",
+    "Romaji": "rieki",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "profit; gains; benefit",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "利口",
+    "Furigana": "りこう",
+    "Romaji": "rikou",
+    "Type": "Noun, Adjective, な-adjective",
+    "Meaning": "clever; intelligent; wise; bright; sharp",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "留学",
+    "Furigana": "りゅうがく",
+    "Romaji": "ryuugaku",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "studying abroad",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "作品",
+    "Furigana": "さくひん",
+    "Romaji": "sakuhin",
+    "Type": "Noun",
+    "Meaning": "work of art; performance",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "左右",
+    "Furigana": "さゆう",
+    "Romaji": "sayuu",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "left and right",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "成長",
+    "Furigana": "せいちょう",
+    "Romaji": "seichou",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "growth; development; growing up; becoming an adult",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "製品",
+    "Furigana": "せいひん",
+    "Romaji": "seihin",
+    "Type": "Noun",
+    "Meaning": "manufactured goods; finished goods; product",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "青年",
+    "Furigana": "せいねん",
+    "Romaji": "seinen",
+    "Type": "Noun",
+    "Meaning": "youth; young man",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "刺激",
+    "Furigana": "しげき",
+    "Romaji": "shigeki",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "stimulus; impetus; incentive; encouragement; motivation; provocation; excitement; thrill",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "資本",
+    "Furigana": "しほん",
+    "Romaji": "shihon",
+    "Type": "Noun",
+    "Meaning": "funds; capital",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "品",
+    "Furigana": "しな",
+    "Romaji": "shina",
+    "Type": "Noun",
+    "Meaning": "article; item; thing; goods; stock; quality",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "身長",
+    "Furigana": "しんちょう",
+    "Romaji": "shinchou",
+    "Type": "Noun",
+    "Meaning": "body height; stature",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "進学",
+    "Furigana": "しんがく",
+    "Romaji": "shingaku",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "entering a higher-level school (often university)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "新鮮",
+    "Furigana": "しんせん",
+    "Romaji": "shinsen",
+    "Type": "Adjective, な-adjective",
+    "Meaning": "fresh",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "支店",
+    "Furigana": "してん",
+    "Romaji": "shiten",
+    "Type": "Noun",
+    "Meaning": "branch office; branch store",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "使用",
+    "Furigana": "しよう",
+    "Romaji": "shiyou",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "use; application; employment; utilization.",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "食品",
+    "Furigana": "しょくひん",
+    "Romaji": "shokuhin",
+    "Type": "Noun",
+    "Meaning": "food; food products",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "書物",
+    "Furigana": "しょもつ",
+    "Romaji": "shomotsu",
+    "Type": "Noun",
+    "Meaning": "book; volume",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "書類",
+    "Furigana": "しょるい",
+    "Romaji": "shorui",
+    "Type": "Noun",
+    "Meaning": "document; official papers",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "書斎",
+    "Furigana": "しょさい",
+    "Romaji": "shosai",
+    "Type": "Noun",
+    "Meaning": "study; library; den; home office; reading room",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "商売",
+    "Furigana": "しょうばい",
+    "Romaji": "shoubai",
+    "Type": "Noun",
+    "Meaning": "trade; business; commerce; transaction; occupation",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "奨学金",
+    "Furigana": "しょうがくきん",
+    "Romaji": "shougakukin",
+    "Type": "Noun",
+    "Meaning": "scholarship; stipend; student loan",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "正午",
+    "Furigana": "しょうご",
+    "Romaji": "shougo",
+    "Type": "Noun, Adverbial Noun",
+    "Meaning": "midday",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "商品",
+    "Furigana": "しょうひん",
+    "Romaji": "shouhin",
+    "Type": "Noun",
+    "Meaning": "commodity; article of commerce; goods; stock; merchandise",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "少女",
+    "Furigana": "しょうじょ",
+    "Romaji": "shoujo",
+    "Type": "Noun",
+    "Meaning": "little girl; maiden; young lady",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "証明",
+    "Furigana": "しょうめい",
+    "Romaji": "shoumei",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "proof; verification; certification",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "少年",
+    "Furigana": "しょうねん",
+    "Romaji": "shounen",
+    "Type": "Noun",
+    "Meaning": "boy; juvenile; young boy; youth; lad",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "少々",
+    "Furigana": "しょうしょう",
+    "Romaji": "shoushou",
+    "Type": "Noun, Adverbial Noun",
+    "Meaning": "just a minute; small quantity",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "招待",
+    "Furigana": "しょうたい",
+    "Romaji": "shoutai",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "invitation",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "週",
+    "Furigana": "しゅう",
+    "Romaji": "shuu",
+    "Type": "Noun, Suffix",
+    "Meaning": "week",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "集中",
+    "Furigana": "しゅうちゅう",
+    "Romaji": "shuuchuu",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "concentration; focusing; centralization; integration",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "集団",
+    "Furigana": "しゅうだん",
+    "Romaji": "shuudan",
+    "Type": "Noun",
+    "Meaning": "group; mass",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "収穫",
+    "Furigana": "しゅうかく",
+    "Romaji": "shuukaku",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "harvest; crop; fruits (of one's labors)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "週間",
+    "Furigana": "しゅうかん",
+    "Romaji": "shuukan",
+    "Type": "Noun",
+    "Meaning": "week",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "週刊",
+    "Furigana": "しゅうかん",
+    "Romaji": "shuukan",
+    "Type": "Noun",
+    "Meaning": "weekly publication",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "収入",
+    "Furigana": "しゅうにゅう",
+    "Romaji": "shuunyuu",
+    "Type": "Noun",
+    "Meaning": "income; receipts; revenue; salary",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "速度",
+    "Furigana": "そくど",
+    "Romaji": "sokudo",
+    "Type": "Noun",
+    "Meaning": "speed; velocity; pace; rate",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "少しも",
+    "Furigana": "すこしも",
+    "Romaji": "sukoshimo",
+    "Type": "Adverb",
+    "Meaning": "anything of; not one bit (with negative sentence)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "大半",
+    "Furigana": "たいはん",
+    "Romaji": "taihan",
+    "Type": "Noun, Adverbial Noun",
+    "Meaning": "majority; more than half; most; largely; mainly",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "大会",
+    "Furigana": "たいかい",
+    "Romaji": "taikai",
+    "Type": "Noun",
+    "Meaning": "convention; rally; conference; tournament;",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "大した",
+    "Furigana": "たいした",
+    "Romaji": "taishita",
+    "Type": "Pre-noun adjectival",
+    "Meaning": "considerable; great; important; significant; a big deal",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "単なる",
+    "Furigana": "たんなる",
+    "Romaji": "tannaru",
+    "Type": "Pre-noun adjectival",
+    "Meaning": "mere; simple; sheer",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "多少",
+    "Furigana": "たしょう",
+    "Romaji": "tashou",
+    "Type": "Noun, Adverb",
+    "Meaning": "more or less; somewhat; a little; a few; some",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "手品",
+    "Furigana": "てじな",
+    "Romaji": "tejina",
+    "Type": "Noun",
+    "Meaning": "magic trick; illusion",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "哲学",
+    "Furigana": "てつがく",
+    "Romaji": "tetsugaku",
+    "Type": "Noun",
+    "Meaning": "philosophy",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "徹夜",
+    "Furigana": "てつや",
+    "Romaji": "tetsuya",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "staying up all night",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "土地",
+    "Furigana": "とち",
+    "Romaji": "tochi",
+    "Type": "Noun",
+    "Meaning": "plot of land; lot; soil",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "都会",
+    "Furigana": "とかい",
+    "Romaji": "tokai",
+    "Type": "Noun",
+    "Meaning": "(big) city",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "取れる",
+    "Furigana": "とれる",
+    "Romaji": "toreru",
+    "Type": "Verb, Ichidan verb, Intransitive verb, Transitive verb",
+    "Meaning": "to come off; to be removed; to be obtainable",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "取り上げる",
+    "Furigana": "とりあげる",
+    "Romaji": "toriageru",
+    "Type": "Verb, Ichidan verb, Transitive verb",
+    "Meaning": "to pick up",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "図書",
+    "Furigana": "としょ",
+    "Romaji": "tosho",
+    "Type": "Noun",
+    "Meaning": "books",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "通学",
+    "Furigana": "つうがく",
+    "Romaji": "tsuugaku",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "commuting to school; school commute",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "受け取る",
+    "Furigana": "うけとる",
+    "Romaji": "uketoru",
+    "Type": "Verb, Godan verb, Transitive verb",
+    "Meaning": "to receive; to understand",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "上手い",
+    "Furigana": "うまい",
+    "Romaji": "umai",
+    "Type": "Adjective, い-adjective",
+    "Meaning": "skillful; delicious",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "運転",
+    "Furigana": "うんてん",
+    "Romaji": "unten",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "operation; driving",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "売れる",
+    "Furigana": "うれる",
+    "Romaji": "ureru",
+    "Type": "Verb, Ichidan verb, Intransitive verb",
+    "Meaning": "to sell (well)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "分ける",
+    "Furigana": "わける",
+    "Romaji": "wakeru",
+    "Type": "Verb, Ichidan verb, Transitive verb",
+    "Meaning": "to divide; to split; to part; to separate",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "悪口",
+    "Furigana": "わるぐち",
+    "Romaji": "waruguchi",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "slander; bad-mouthing; abuse; insult; speaking ill (of)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "夜明け",
+    "Furigana": "よあけ",
+    "Romaji": "yoake",
+    "Type": "Noun",
+    "Meaning": "dawn; daybreak",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "余分",
+    "Furigana": "よぶん",
+    "Romaji": "yobun",
+    "Type": "Noun",
+    "Meaning": "extra; excess; surplus",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "読み",
+    "Furigana": "よみ",
+    "Romaji": "yomi",
+    "Type": "Noun",
+    "Meaning": "reading (of a kanji, situation, etc)",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "夜中",
+    "Furigana": "よなか",
+    "Romaji": "yonaka",
+    "Type": "Noun, Adverbial Noun",
+    "Meaning": "middle of the night; dead of night",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "宜しい",
+    "Furigana": "よろしい",
+    "Romaji": "yoroshii",
+    "Type": "Adjective, い-adjective",
+    "Meaning": "(respectful) OK; all right",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "唯一",
+    "Furigana": "ゆいいつ",
+    "Romaji": "yuiitsu",
+    "Type": "Noun, Adverbial Noun",
+    "Meaning": "only; sole; unique",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "輸入",
+    "Furigana": "ゆにゅう",
+    "Romaji": "yunyuu",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "import; importation; introduction",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "輸出",
+    "Furigana": "ゆしゅつ",
+    "Romaji": "yushutsu",
+    "Type": "Noun, Verb, Suru verb",
+    "Meaning": "export; exportation",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "夕べ",
+    "Furigana": "ゆうべ",
+    "Romaji": "yuube",
+    "Type": "Noun, Adverbial Noun",
+    "Meaning": "evening / last night; yesterday evening",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "有利",
+    "Furigana": "ゆうり",
+    "Romaji": "yuuri",
+    "Type": "Noun, な-adjective",
+    "Meaning": "advantageous; favorable; profitable",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "全国",
+    "Furigana": "ぜんこく",
+    "Romaji": "zenkoku",
+    "Type": "Noun",
+    "Meaning": "the whole country",
+    "": "",
+    "__1": ""
+  },
+  {
+    "Vocabulary": "随分",
+    "Furigana": "ずいぶん",
+    "Romaji": "zuibun",
+    "Type": "Adjective, な-adjective, Adverb",
+    "Meaning": "very; extremely; surprisingly; considerably; awfully",
+    "": "",
+    "__1": ""
+  }
+]

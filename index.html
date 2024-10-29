@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Japanese Vocabulary Flashcards</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Buttons to select the difficulty level -->
+      <div id="level-buttons">
+        <button id="button-N1" onclick="loadVocabulary('N1.json', 'button-N1')">
+          N1
+        </button>
+        <button id="button-N2" onclick="loadVocabulary('N2.json', 'button-N2')">
+          N2
+        </button>
+        <button id="button-N3" onclick="loadVocabulary('N3.json', 'button-N3')">
+          N3
+        </button>
+        <button id="button-N4" onclick="loadVocabulary('N4.json', 'button-N4')">
+          N4
+        </button>
+        <button id="button-N5" onclick="loadVocabulary('N5.json', 'button-N5')">
+          N5
+        </button>
+      </div>
+
+      <div id="flashcard">
+        <span id="furigana"></span></p>
+        <span id="vocab"></span></p>
+        <span id="meaning"></span></p>
+      </div>
+      <button id="next-word" onclick="showRandomWord()">next</button>
+
+      <script src="app.js"></script>
+    </div>
+  </body>
+</html>

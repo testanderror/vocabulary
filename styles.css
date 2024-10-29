@@ -1,0 +1,96 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Full viewport height */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+#vocab {
+  font-size: 4em;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+#furigana {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+#meaning {
+  margin-top: 40px;
+}
+
+#level-buttons {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+
+#level-buttons button {
+  font-size: .6em;
+  margin: 10px;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: white;
+  color: rgb(87, 85, 85);
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#level-buttons button:hover {
+  background-color: rgb(87, 85, 85);/* Darker shade on hover */
+}
+
+/* Style for the selected button */
+#level-buttons button.selected {
+  background-color: rgb(87, 85, 85); /* Darker shade for selected button */
+  color: #fff;
+}
+
+#flashcard {
+  width: 300px; /* Fixed width */
+  height: 300px; /* Fixed height */
+  padding: 20px;
+  background-color: white;
+  
+  border-radius: 10px;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#flashcard p {
+  /* font-size: 1.5em; Increase font size for flashcard text */
+  margin: 5px 0; /* Adjust margin to prevent shifting */
+  text-align: center; /* Center align text */
+}
+
+#next-word {
+  font-size: 1.2em;
+  background-color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  cursor: pointer;
+  
+}
+
